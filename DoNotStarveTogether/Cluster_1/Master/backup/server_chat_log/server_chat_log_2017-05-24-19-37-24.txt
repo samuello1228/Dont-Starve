@@ -1,0 +1,5 @@
+[00:01:08]: [Join Announcement] Samuel Lo
+[01:21:37]: [Death Announcement] Samuel Lo was killed by Beefalo. He became a spooky ghost!
+[01:21:47]: [Resurrect Announcement] Samuel Lo was resurrected by Meat Effigy.
+[01:52:25]: [Death Announcement] Samuel Lo was killed by Deerclops. He became a spooky ghost!
+[01:52:30]: [Leave Announcement] Samuel Lo

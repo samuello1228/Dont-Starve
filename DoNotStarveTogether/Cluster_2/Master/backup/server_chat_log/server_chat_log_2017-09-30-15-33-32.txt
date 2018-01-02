@@ -1,0 +1,6 @@
+[00:00:54]: [Join Announcement] Samuel Lo
+[00:03:32]: [Join Announcement] Lily
+[00:40:45]: [Skin Announcement] Lily body_cardigan_black_jet
+[00:53:03]: [Death Announcement] Lily was killed by Darkness. She became a spooky ghost!
+[00:55:43]: [Leave Announcement] Lily
+[01:03:06]: [Leave Announcement] Samuel Lo

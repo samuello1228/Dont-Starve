@@ -1,0 +1,3 @@
+[00:01:01]: [Join Announcement] Samuel Lo
+[00:31:57]: [Death Announcement] Samuel Lo was killed by Spider Warrior. He became a spooky ghost!
+[00:32:11]: [Leave Announcement] Samuel Lo

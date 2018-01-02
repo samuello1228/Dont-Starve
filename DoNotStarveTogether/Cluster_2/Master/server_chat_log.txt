@@ -1,0 +1,10 @@
+[00:00:52]: [Join Announcement] Samuel Lo
+[00:02:12]: [Join Announcement] Lily
+[00:07:12]: [Resurrect Announcement] Lily was resurrected by Florid Postern.
+[00:30:34]: [Skin Announcement] Samuel Lo body_cardigan_teal_jade
+[00:37:27]: [Skin Announcement] Lily mysterybox_classic_4
+[01:19:29]: [Skin Announcement] Lily mysterybox_classic_4
+[01:36:51]: [Death Announcement] Lily was killed by Freezing. She became a spooky ghost!
+[01:38:36]: [Death Announcement] Samuel Lo was killed by Terrorbeak. He became a spooky ghost!
+[01:38:54]: [Leave Announcement] Samuel Lo
+[01:38:54]: [Leave Announcement] Lily

@@ -1,0 +1,5 @@
+[00:06:39]: [Join Announcement] Lily
+[00:15:37]: [Join Announcement] Lily
+[00:52:50]: [Skin Announcement] Lily body_cardigan_black_jet
+[01:05:09]: [Death Announcement] Lily was killed by Darkness. She became a spooky ghost!
+[01:07:48]: [Leave Announcement] Lily

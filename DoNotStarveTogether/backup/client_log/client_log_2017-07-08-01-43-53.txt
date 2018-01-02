@@ -1,0 +1,1386 @@
+[00:00:00]: PersistRootStorage is now /Users/samuel/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 217693
+[00:00:00]: Current time: Thu May 25 08:45:29 2017
+
+[00:00:00]: Don't Starve Together: 217693 OSX_STEAM
+[00:00:00]: Build Date: 1822
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 1841570
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2965622784)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.46
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'ConsoleInput' (2968260608)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198191428828
+[00:00:00]: SteamID: 76561198191428828
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: Creating window with size 1376x720 at 18x104
+[00:00:00]: THREAD - started 'SDLInputManager' (2970365952)
+[00:00:00]: OSX version 10.12.5
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Intel Inc.
+[00:00:00]: GL_RENDERER: Intel Iris OpenGL Engine
+[00:00:00]: GL_VERSION: 2.1 INTEL-10.25.13
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:00]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:00]: OpenGL extensions (129, 129):
+[00:00:00]: 
+[00:00:00]: GL_APPLE_aux_depth_stencil
+[00:00:00]: GL_APPLE_client_storage
+[00:00:00]: GL_APPLE_element_array
+[00:00:00]: GL_APPLE_fence
+[00:00:00]: GL_APPLE_float_pixels
+[00:00:00]: GL_APPLE_flush_buffer_range
+[00:00:00]: GL_APPLE_flush_render
+[00:00:00]: GL_APPLE_object_purgeable
+[00:00:00]: GL_APPLE_packed_pixels
+[00:00:00]: GL_APPLE_pixel_buffer
+[00:00:00]: GL_APPLE_rgb_422
+[00:00:00]: GL_APPLE_row_bytes
+[00:00:00]: GL_APPLE_specular_vector
+[00:00:00]: GL_APPLE_texture_range
+[00:00:00]: GL_APPLE_transform_hint
+[00:00:00]: GL_APPLE_vertex_array_object
+[00:00:00]: GL_APPLE_vertex_array_range
+[00:00:00]: GL_APPLE_vertex_point_size
+[00:00:00]: GL_APPLE_vertex_program_evaluators
+[00:00:00]: GL_APPLE_ycbcr_422
+[00:00:00]: GL_ARB_color_buffer_float
+[00:00:00]: GL_ARB_depth_buffer_float
+[00:00:00]: GL_ARB_depth_clamp
+[00:00:00]: GL_ARB_depth_texture
+[00:00:00]: GL_ARB_draw_buffers
+[00:00:00]: GL_ARB_draw_elements_base_vertex
+[00:00:00]: GL_ARB_draw_instanced
+[00:00:00]: GL_ARB_fragment_program
+[00:00:00]: GL_ARB_fragment_program_shadow
+[00:00:00]: GL_ARB_fragment_shader
+[00:00:00]: GL_ARB_framebuffer_object
+[00:00:00]: GL_ARB_framebuffer_sRGB
+[00:00:00]: GL_ARB_half_float_pixel
+[00:00:00]: GL_ARB_half_float_vertex
+[00:00:00]: GL_ARB_instanced_arrays
+[00:00:00]: GL_ARB_multisample
+[00:00:00]: GL_ARB_multitexture
+[00:00:00]: GL_ARB_occlusion_query
+[00:00:00]: GL_ARB_pixel_buffer_object
+[00:00:00]: GL_ARB_point_parameters
+[00:00:00]: GL_ARB_point_sprite
+[00:00:00]: GL_ARB_provoking_vertex
+[00:00:00]: GL_ARB_seamless_cube_map
+[00:00:00]: GL_ARB_shader_objects
+[00:00:00]: GL_ARB_shader_texture_lod
+[00:00:00]: GL_ARB_shading_language_100
+[00:00:00]: GL_ARB_shadow
+[00:00:00]: GL_ARB_sync
+[00:00:00]: GL_ARB_texture_border_clamp
+[00:00:00]: GL_ARB_texture_compression
+[00:00:00]: GL_ARB_texture_compression_rgtc
+[00:00:00]: GL_ARB_texture_cube_map
+[00:00:00]: GL_ARB_texture_env_add
+[00:00:00]: GL_ARB_texture_env_combine
+[00:00:00]: GL_ARB_texture_env_crossbar
+[00:00:00]: GL_ARB_texture_env_dot3
+[00:00:00]: GL_ARB_texture_float
+[00:00:00]: GL_ARB_texture_mirrored_repeat
+[00:00:00]: GL_ARB_texture_non_power_of_two
+[00:00:00]: GL_ARB_texture_rectangle
+[00:00:00]: GL_ARB_texture_rg
+[00:00:00]: GL_ARB_transpose_matrix
+[00:00:00]: GL_ARB_vertex_array_bgra
+[00:00:00]: GL_ARB_vertex_blend
+[00:00:00]: GL_ARB_vertex_buffer_object
+[00:00:00]: GL_ARB_vertex_program
+[00:00:00]: GL_ARB_vertex_shader
+[00:00:00]: GL_ARB_window_pos
+[00:00:00]: GL_ATI_separate_stencil
+[00:00:00]: GL_ATI_texture_env_combine3
+[00:00:00]: GL_ATI_texture_float
+[00:00:00]: GL_ATI_texture_mirror_once
+[00:00:00]: GL_EXT_abgr
+[00:00:00]: GL_EXT_bgra
+[00:00:00]: GL_EXT_blend_color
+[00:00:00]: GL_EXT_blend_equation_separate
+[00:00:00]: GL_EXT_blend_func_separate
+[00:00:00]: GL_EXT_blend_minmax
+[00:00:00]: GL_EXT_blend_subtract
+[00:00:00]: GL_EXT_clip_volume_hint
+[00:00:00]: GL_EXT_debug_label
+[00:00:00]: GL_EXT_debug_marker
+[00:00:00]: GL_EXT_draw_buffers2
+[00:00:00]: GL_EXT_draw_range_elements
+[00:00:00]: GL_EXT_fog_coord
+[00:00:00]: GL_EXT_framebuffer_blit
+[00:00:00]: GL_EXT_framebuffer_multisample
+[00:00:00]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:00]: GL_EXT_framebuffer_object
+[00:00:00]: GL_EXT_framebuffer_sRGB
+[00:00:00]: GL_EXT_geometry_shader4
+[00:00:00]: GL_EXT_gpu_program_parameters
+[00:00:00]: GL_EXT_gpu_shader4
+[00:00:00]: GL_EXT_multi_draw_arrays
+[00:00:00]: GL_EXT_packed_depth_stencil
+[00:00:00]: GL_EXT_packed_float
+[00:00:00]: GL_EXT_provoking_vertex
+[00:00:00]: GL_EXT_rescale_normal
+[00:00:00]: GL_EXT_secondary_color
+[00:00:00]: GL_EXT_separate_specular_color
+[00:00:00]: GL_EXT_shadow_funcs
+[00:00:00]: GL_EXT_stencil_two_side
+[00:00:00]: GL_EXT_stencil_wrap
+[00:00:00]: GL_EXT_texture_array
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_compression_s3tc
+[00:00:00]: GL_EXT_texture_env_add
+[00:00:00]: GL_EXT_texture_filter_anisotropic
+[00:00:00]: GL_EXT_texture_integer
+[00:00:00]: GL_EXT_texture_lod_bias
+[00:00:00]: GL_EXT_texture_rectangle
+[00:00:00]: GL_EXT_texture_sRGB
+[00:00:00]: GL_EXT_texture_sRGB_decode
+[00:00:00]: GL_EXT_texture_shared_exponent
+[00:00:00]: GL_EXT_timer_query
+[00:00:00]: GL_EXT_transform_feedback
+[00:00:00]: GL_EXT_vertex_array_bgra
+[00:00:00]: GL_IBM_rasterpos_clip
+[00:00:00]: GL_NV_blend_square
+[00:00:00]: GL_NV_conditional_render
+[00:00:00]: GL_NV_depth_clamp
+[00:00:00]: GL_NV_fog_distance
+[00:00:00]: GL_NV_light_max_exponent
+[00:00:00]: GL_NV_texgen_reflection
+[00:00:00]: GL_NV_texture_barrier
+[00:00:00]: GL_SGIS_generate_mipmap
+[00:00:00]: GL_SGIS_texture_edge_clamp
+[00:00:00]: GL_SGIS_texture_lod
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:00]: 3 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence.
+	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:00]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:00]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-821143467	
+[00:00:00]: Loading mod: workshop-821143467 (Wormhole icons) Version:1.2	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:00]: Loading mod: workshop-836583293 (Item Info) Version:0.3	
+[00:00:00]: loaded mod_config_data/modconfiguration_workshop-842702425	
+[00:00:00]: Loading mod: workshop-842702425 (Minimap HUD MZ) Version:2.6	
+[00:00:00]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:00]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:00]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:00]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:00]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:00]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:00]: Mod: workshop-821143467 (Wormhole icons)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-821143467 (Wormhole icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-821143467 (Wormhole icons)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-842702425 (Minimap HUD MZ)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths loaded morgue	5572	
+[00:00:02]: PlayerHistory loaded player_history	199	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	Registering prefabs	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	Registering prefabs	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: 	Load FE: done	
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:04]: OnLoadUserIdList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:04]: SimLuaProxy::QueryServer()
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: focus gained
+[00:00:06]: [Steam] Auth Session Ticket requested...
+[00:00:07]: [Steam] Got Auth Session Ticket
+[00:00:08]: [200] Account Communication Success (3)
+[00:00:08]: loaded inventory_cache
+[00:00:08]: Logging in as KU_3JaAnfyk
+[00:00:09]: loaded inventory_cache
+[00:00:10]: SimLuaProxy::QueryServer()
+[00:00:12]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:00:12]: Frontend-Unloading mod 'all'.	
+[00:00:12]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:12]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:12]: FrontendLoadMod	workshop-758532836	
+[00:00:12]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:12]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:12]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: FrontendLoadMod	workshop-375859599	
+[00:00:12]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:12]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:12]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:12]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:12]: ../mods/workshop-842702425/modicon.tex is 192x192 but compressed textures must have power of 2 dimensions.
+[00:00:12]: ../mods/workshop-606039272/modicon.tex is 72x72 but compressed textures must have power of 2 dimensions.
+[00:00:25]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:25]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:25]: [IPC] Signal created '/DST_Master_Starting'  #0x43
+[00:00:25]: [IPC] Clearing pending signals #0x43...
+[00:00:25]: [IPC] Registering handler for signal #0x43
+[00:00:25]: [IPC] Signal created '/DST_Master_WorldGen'  #0x44
+[00:00:25]: [IPC] Clearing pending signals #0x44...
+[00:00:25]: [IPC] Registering handler for signal #0x44
+[00:00:25]: [IPC] Signal created '/DST_Master_Ready'  #0x45
+[00:00:25]: [IPC] Clearing pending signals #0x45...
+[00:00:25]: [IPC] Registering handler for signal #0x45
+[00:00:25]: [IPC] Signal created '/DST_Master_ErrPort'  #0x46
+[00:00:25]: [IPC] Clearing pending signals #0x46...
+[00:00:25]: [IPC] Registering handler for signal #0x46
+[00:00:25]: [IPC] Signal created '/DST_Master_ErrStartup'  #0x47
+[00:00:25]: [IPC] Clearing pending signals #0x47...
+[00:00:25]: [IPC] Registering handler for signal #0x47
+[00:00:25]: [IPC] Signal created '/DST_Master_Kill'  #0x48
+[00:00:25]: [IPC] Clearing pending signals #0x48...
+[00:00:25]: Starting subprocess with Args: => ./dontstarve_dedicated_server_nullrenderer -monitor_parent_process 12997 -persistent_storage_root /Users/samuel/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198191428828 -backup_log_count 10 -shard Master -sigprefix DST_Master
+[00:00:25]: CWD is: /Users/samuel/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data
+[00:00:25]: [IPC] Signal created '/DST_Slave_Starting'  #0x49
+[00:00:25]: [IPC] Clearing pending signals #0x49...
+[00:00:25]: [IPC] Registering handler for signal #0x49
+[00:00:25]: [IPC] Signal created '/DST_Slave_WorldGen'  #0x4a
+[00:00:25]: [IPC] Clearing pending signals #0x4a...
+[00:00:25]: [IPC] Registering handler for signal #0x4a
+[00:00:25]: [IPC] Signal created '/DST_Slave_Ready'  #0x4b
+[00:00:25]: [IPC] Clearing pending signals #0x4b...
+[00:00:25]: [IPC] Registering handler for signal #0x4b
+[00:00:25]: [IPC] Signal created '/DST_Slave_ErrPort'  #0x4c
+[00:00:25]: [IPC] Clearing pending signals #0x4c...
+[00:00:25]: [IPC] Registering handler for signal #0x4c
+[00:00:25]: [IPC] Signal created '/DST_Slave_ErrStartup'  #0x4d
+[00:00:25]: [IPC] Clearing pending signals #0x4d...
+[00:00:25]: [IPC] Registering handler for signal #0x4d
+[00:00:25]: [IPC] Signal created '/DST_Slave_Kill'  #0x4e
+[00:00:25]: [IPC] Clearing pending signals #0x4e...
+[00:00:25]: Starting subprocess with Args: => ./dontstarve_dedicated_server_nullrenderer -monitor_parent_process 12997 -persistent_storage_root /Users/samuel/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198191428828 -backup_log_count 10 -shard Caves -sigprefix DST_Slave
+[00:00:25]: CWD is: /Users/samuel/Library/Application Support/Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/data
+[00:00:29]: [IPC] Received DST_Master Starting signal !
+[00:00:29]: [IPC] Received DST_Slave Starting signal !
+[00:00:54]: [IPC] Received DST_Master Ready signal !
+[00:01:02]: [IPC] Received DST_Slave Ready signal !
+[00:01:02]: [Connect] Init client connection to 127.0.0.1|10999
+[00:01:02]: [Connect] PendingConnection::Reset(true)
+[00:01:02]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:02]: [Connect] InternalInitClient <13225078714851549701>
+[00:01:02]: [Shard] Starting shard mode as player
+[00:01:07]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:01:07]: [Connect] Sending ping(s)...
+[00:01:07]: [Connect] Ping 127.0.0.1|10999
+[00:01:07]: [Connect] Ping response from 127.0.0.1|10999
+[00:01:07]: [Connect] Joining server from ping response...
+[00:01:07]: Friends are currently playing in 0 games(s)!
+[00:01:07]: You belong to 0 clan(s)!
+[00:01:07]: [Connect] Got join server response from lua
+[00:01:08]: [200] Account Communication Success (13)
+[00:01:08]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:01:08]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:01:08]: Connection accepted to 127.0.0.1|10999 <17562504296570024622>
+[00:01:08]: Network external address discovered: 127.0.0.1|51836
+[00:01:08]: SendClientHandShakePacket "pgs-sing^KU_3JaAnfyk^DontStarveTogether^t3OjRCKL0mhaV/pMCsLsaRXn94XoBc4jaWEDJQdY1ts=" to <17562504296570024622>
+[00:01:08]: DeserializeHandShakeServerListing
+[00:01:08]: Network tick rate: U=10(3), D=15
+[00:01:08]: Version: 217693
+[00:01:08]: [Steam] Game Connection initiated
+[00:01:08]: SendClientInventoryHandShakePacket to <17562504296570024622>
+[00:01:10]: Begin Session: CE356A3F9197B255
+[00:01:10]: Done Downloading Client Object Data
+[00:01:10]: DownloadMods and temp disable	
+[00:01:10]: We now have the required mods, enable them for server	
+[00:01:10]: Temp Enabling workshop-758532836	
+[00:01:10]: Temp Enabling workshop-375859599	
+[00:01:10]: ModIndex:SetTempModConfigData	
+[00:01:10]: Setting temp mod config for mod 	workshop-758532836	
+[00:01:10]: Setting temp mod config for mod 	workshop-375859599	
+[00:01:10]: Mods are setup for server, save the mod index and proceed.	
+[00:01:10]: Downloading [0] From: server_temp
+[00:01:10]: 0 (36%) 1/1 server_temp/server_save 114000b / 311639b
+[00:01:10]: 0 (72%) 1/1 server_temp/server_save 228000b / 311639b
+[00:01:10]: 0 (100%) 1/1 server_temp/server_save 311639b / 311639b
+[00:01:10]: Download complete[0] Files: 1 Size: 311639
+[00:01:12]: unloading prefabs for mod MOD_workshop-836583293	
+[00:01:12]: unloading prefabs for mod MOD_workshop-365119238	
+[00:01:12]: unloading prefabs for mod MOD_workshop-821143467	
+[00:01:12]: unloading prefabs for mod MOD_workshop-842702425	
+[00:01:12]: unloading prefabs for mod MOD_workshop-376333686	
+[00:01:12]: Collecting garbage...
+[00:01:12]: lua_gc took 0.03 seconds
+[00:01:12]: ~ShardLuaProxy()
+[00:01:12]: ~ItemServerLuaProxy()
+[00:01:12]: ~InventoryLuaProxy()
+[00:01:12]: ~NetworkLuaProxy()
+[00:01:12]: ~SimLuaProxy()
+[00:01:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:12]: lua_close took 0.07 seconds
+[00:01:12]: ReleaseAll
+[00:01:12]: ReleaseAll Finished
+[00:01:12]: cGame::StartPlaying
+[00:01:12]: LOADING LUA
+[00:01:12]: DoLuaFile scripts/main.lua
+[00:01:12]: DoLuaFile loading buffer scripts/main.lua
+[00:01:12]: running main.lua
+	
+[00:01:12]: loaded modindex	
+[00:01:12]: ModIndex: Beginning normal load sequence.
+	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:01:12]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:01:12]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:01:12]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:01:12]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-821143467	
+[00:01:12]: Loading mod: workshop-821143467 (Wormhole icons) Version:1.2	
+[00:01:12]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:01:12]: Loading mod: workshop-836583293 (Item Info) Version:0.3	
+[00:01:12]: loaded mod_config_data/modconfiguration_workshop-842702425	
+[00:01:12]: Loading mod: workshop-842702425 (Minimap HUD MZ) Version:2.6	
+[00:01:12]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:01:12]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:01:12]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:01:12]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:01:12]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:01:12]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:01:12]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:01:12]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:01:12]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:01:12]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:01:12]: Mod: workshop-821143467 (Wormhole icons)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-821143467 (Wormhole icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-821143467 (Wormhole icons)	Loading modmain.lua	
+[00:01:12]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-842702425 (Minimap HUD MZ)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modmain.lua	
+[00:01:12]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:01:12]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:12]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:01:12]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:01:13]: LOADING LUA SUCCESS
+[00:01:13]: Registering mod namespace "globalpause"
+[00:01:13]: PlayerDeaths loaded morgue	5572	
+[00:01:13]: PlayerHistory loaded player_history	199	
+[00:01:13]: bloom_enabled	false	
+[00:01:13]: loaded saveindex	
+[00:01:13]: OnFilesLoaded()	
+[00:01:13]: OnUpdatePurchaseStateComplete	
+[00:01:13]: 	Unload FE	
+[00:01:13]: 	Unload FE done	
+[00:01:14]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:01:14]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:01:14]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:01:14]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:01:14]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-821143467 (Wormhole icons)	Registering prefabs	
+[00:01:14]: Mod: workshop-821143467 (Wormhole icons)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-842702425 (Minimap HUD MZ)	Registering prefabs	
+[00:01:14]: Mod: workshop-842702425 (Minimap HUD MZ)	  Registering default mod prefab	
+[00:01:14]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:01:14]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:01:14]: 	LOAD BE	
+[00:01:18]: 	LOAD BE: done	
+[00:01:18]: Loading world: client_temp/server_save	
+[00:01:18]: Save file is at version 4.77	
+[00:01:18]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:18]: MiniMapComponent::AddAtlas( ../mods/workshop-821143467/images/mod_wormhole_num.xml )
+[00:01:19]: Loading Nav Grid	
+[00:01:19]: setting 	summerlength	15	
+[00:01:19]: setting 	isnightmaredawn	false	
+[00:01:19]: setting 	elapseddaysinseason	18	
+[00:01:19]: setting 	isfullmoon	false	
+[00:01:19]: setting 	moisture	2957.0888671875	
+[00:01:19]: setting 	springlength	20	
+[00:01:19]: setting 	isnightmarewild	false	
+[00:01:19]: setting 	moonphase	quarter	
+[00:01:19]: setting 	precipitationrate	0	
+[00:01:19]: setting 	iswet	false	
+[00:01:19]: setting 	isnewmoon	false	
+[00:01:19]: setting 	iswinter	false	
+[00:01:19]: setting 	israining	false	
+[00:01:19]: setting 	issummer	false	
+[00:01:19]: setting 	time	0.90473883946737	
+[00:01:19]: setting 	wetness	0	
+[00:01:19]: setting 	moistureceil	3308.8132324219	
+[00:01:19]: setting 	isday	false	
+[00:01:19]: setting 	nightmaretimeinphase	0	
+[00:01:19]: setting 	season	spring	
+[00:01:19]: setting 	isnight	true	
+[00:01:19]: setting 	cycles	263	
+[00:01:19]: setting 	isnightmarecalm	false	
+[00:01:19]: setting 	timeinphase	0.49194047715929	
+[00:01:19]: setting 	isdusk	false	
+[00:01:19]: setting 	iscavedusk	false	
+[00:01:19]: setting 	isautumn	false	
+[00:01:19]: setting 	iscaveday	false	
+[00:01:19]: setting 	remainingdaysinseason	2	
+[00:01:19]: setting 	phase	night	
+[00:01:19]: setting 	snowlevel	0	
+[00:01:19]: setting 	iswaxingmoon	true	
+[00:01:19]: setting 	autumnlength	20	
+[00:01:19]: setting 	pop	0.88074314606514	
+[00:01:19]: setting 	nightmaretime	0	
+[00:01:19]: setting 	isspring	true	
+[00:01:19]: setting 	winterlength	15	
+[00:01:19]: setting 	nightmarephase	none	
+[00:01:19]: setting 	issnowcovered	false	
+[00:01:19]: setting 	issnowing	false	
+[00:01:19]: setting 	iscavenight	true	
+[00:01:19]: setting 	temperature	43.697873791875	
+[00:01:19]: setting 	cavephase	night	
+[00:01:19]: setting 	precipitation	none	
+[00:01:19]: setting 	isnightmarewarn	false	
+[00:01:19]: Reconstructing topology	
+[00:01:19]: 	...Sorting points	
+[00:01:19]: 	...Sorting edges	
+[00:01:19]: 	...Connecting nodes	
+[00:01:19]: 	...Validating connections	
+[00:01:19]: 	...Housekeeping	
+[00:01:19]: 	...Done!	
+[00:01:19]: ModIndex: Load sequence finished successfully.	
+[00:01:19]: Reset() returning
+[00:01:21]: Attempting to send resume request
+[00:01:21]: ReceiveResumeNotification
+[00:01:21]: Movement prediction enabled	
+[00:01:21]: Deserializing tile data (425 x 425)
+[00:04:31]: SendRemoteExecute(globalPauseSet(true))
+[00:04:44]: SendRemoteExecute(globalPauseSet(false))
+[00:04:44]: OnGPUnpause	
+[00:10:20]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:18:21]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:23:15]: SendRemoteExecute(globalPauseSet(true))
+[00:23:20]: SendRemoteExecute(globalPauseSet(false))
+[00:23:20]: OnGPUnpause	
+[00:24:06]: SendRemoteExecute(globalPauseSet(true))
+[00:24:08]: SendRemoteExecute(globalPauseSet(false))
+[00:24:08]: OnGPUnpause	
+[00:26:11]: SendRemoteExecute(globalPauseSet(true))
+[00:26:15]: SendRemoteExecute(globalPauseSet(false))
+[00:26:15]: OnGPUnpause	
+[00:26:32]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:29:06]: SendRemoteExecute(globalPauseSet(true))
+[00:29:09]: SendRemoteExecute(globalPauseSet(false))
+[00:29:10]: OnGPUnpause	
+[00:30:00]: [200] Account Communication Success (6)
+[00:30:00]: Received (KU_3JaAnfyk) from TokenPurpose
+[00:31:31]: SendRemoteExecute(globalPauseSet(true))
+[00:31:39]: SendRemoteExecute(globalPauseSet(false))
+[00:31:39]: OnGPUnpause	
+[00:32:43]: SendRemoteExecute(globalPauseSet(true))
+[00:32:45]: SendRemoteExecute(globalPauseSet(false))
+[00:32:45]: OnGPUnpause	
+[00:34:46]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:35:38]: SendRemoteExecute(globalPauseSet(true))
+[00:35:40]: SendRemoteExecute(globalPauseSet(false))
+[00:35:40]: OnGPUnpause	
+[00:38:00]: SendRemoteExecute(globalPauseSet(true))
+[00:38:03]: SendRemoteExecute(globalPauseSet(false))
+[00:38:03]: OnGPUnpause	
+[00:39:01]: focus lost
+[00:39:01]: focus gained
+[00:39:49]: SendRemoteExecute(globalPauseSet(true))
+[00:39:51]: SendRemoteExecute(globalPauseSet(false))
+[00:39:51]: OnGPUnpause	
+[00:40:04]: SendRemoteExecute(globalPauseSet(true))
+[00:40:06]: SendRemoteExecute(globalPauseSet(false))
+[00:40:06]: OnGPUnpause	
+[00:40:35]: SendRemoteExecute(globalPauseSet(true))
+[00:40:38]: SendRemoteExecute(globalPauseSet(false))
+[00:40:39]: OnGPUnpause	
+[00:42:57]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:43:03]: SendRemoteExecute(globalPauseSet(true))
+[00:43:05]: SendRemoteExecute(globalPauseSet(false))
+[00:43:05]: OnGPUnpause	
+[00:43:48]: SendRemoteExecute(globalPauseSet(true))
+[00:43:51]: SendRemoteExecute(globalPauseSet(false))
+[00:43:51]: OnGPUnpause	
+[00:45:09]: SendRemoteExecute(globalPauseSet(true))
+[00:45:13]: SendRemoteExecute(globalPauseSet(false))
+[00:45:13]: OnGPUnpause	
+[00:51:06]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:51:55]: SendRemoteExecute(globalPauseSet(true))
+[00:51:58]: SendRemoteExecute(globalPauseSet(false))
+[00:51:58]: OnGPUnpause	
+[00:52:19]: SendRemoteExecute(globalPauseSet(true))
+[00:52:21]: SendRemoteExecute(globalPauseSet(false))
+[00:52:21]: OnGPUnpause	
+[00:56:45]: SendRemoteExecute(globalPauseSet(true))
+[00:56:49]: SendRemoteExecute(globalPauseSet(false))
+[00:56:49]: OnGPUnpause	
+[00:57:03]: SendRemoteExecute(globalPauseSet(true))
+[00:57:06]: SendRemoteExecute(globalPauseSet(false))
+[00:57:06]: OnGPUnpause	
+[00:57:24]: SendRemoteExecute(globalPauseSet(true))
+[00:57:26]: SendRemoteExecute(globalPauseSet(false))
+[00:57:26]: OnGPUnpause	
+[00:59:20]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[00:59:59]: [200] Account Communication Success (6)
+[00:59:59]: Received (KU_3JaAnfyk) from TokenPurpose
+[01:07:20]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:15:21]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:18:33]: SendRemoteExecute(globalPauseSet(true))
+[01:18:34]: focus lost
+[01:18:50]: focus gained
+[01:18:50]: SendRemoteExecute(globalPauseSet(false))
+[01:18:51]: OnGPUnpause	
+[01:20:52]: SendRemoteExecute(globalPauseSet(true))
+[01:20:54]: SendRemoteExecute(globalPauseSet(false))
+[01:20:54]: OnGPUnpause	
+[01:23:03]: SendRemoteExecute(globalPauseSet(true))
+[01:23:07]: SendRemoteExecute(globalPauseSet(false))
+[01:23:07]: OnGPUnpause	
+[01:23:45]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:30:00]: [200] Account Communication Success (6)
+[01:30:00]: Received (KU_3JaAnfyk) from TokenPurpose
+[01:31:06]: SendRemoteExecute(globalPauseSet(true))
+[01:31:10]: SendRemoteExecute(globalPauseSet(false))
+[01:31:10]: OnGPUnpause	
+[01:31:50]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:39:51]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:40:21]: SendRemoteExecute(globalPauseSet(true))
+[01:40:23]: SendRemoteExecute(globalPauseSet(false))
+[01:40:23]: OnGPUnpause	
+[01:43:01]: SendRemoteExecute(globalPauseSet(true))
+[01:43:05]: SendRemoteExecute(globalPauseSet(false))
+[01:43:05]: OnGPUnpause	
+[01:43:56]: SendRemoteExecute(globalPauseSet(true))
+[01:43:59]: SendRemoteExecute(globalPauseSet(false))
+[01:43:59]: OnGPUnpause	
+[01:46:51]: SendRemoteExecute(globalPauseSet(true))
+[01:47:57]: SendRemoteExecute(globalPauseSet(false))
+[01:47:57]: OnGPUnpause	
+[01:48:12]: SendRemoteExecute(globalPauseSet(true))
+[01:49:38]: SendRemoteExecute(globalPauseSet(false))
+[01:49:38]: OnGPUnpause	
+[01:49:47]: SendRemoteExecute(globalPauseSet(true))
+[01:50:01]: SendRemoteExecute(globalPauseSet(false))
+[01:50:01]: OnGPUnpause	
+[01:50:05]: SendRemoteExecute(globalPauseSet(true))
+[01:50:22]: SendRemoteExecute(globalPauseSet(false))
+[01:50:22]: OnGPUnpause	
+[01:51:03]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:52:01]: SendRemoteExecute(globalPauseSet(true))
+[01:52:10]: SendRemoteExecute(globalPauseSet(false))
+[01:52:10]: OnGPUnpause	
+[01:52:17]: SendRemoteExecute(globalPauseSet(true))
+[01:52:31]: SendRemoteExecute(globalPauseSet(false))
+[01:52:31]: OnGPUnpause	
+[01:52:38]: SendRemoteExecute(globalPauseSet(true))
+[01:52:41]: SendRemoteExecute(globalPauseSet(false))
+[01:52:41]: OnGPUnpause	
+[01:55:48]: SendRemoteExecute(globalPauseSet(true))
+[01:55:53]: SendRemoteExecute(globalPauseSet(false))
+[01:55:53]: OnGPUnpause	
+[01:59:34]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[01:59:59]: [200] Account Communication Success (6)
+[01:59:59]: Received (KU_3JaAnfyk) from TokenPurpose
+[02:02:04]: SendRemoteExecute(globalPauseSet(true))
+[02:02:10]: SendRemoteExecute(globalPauseSet(false))
+[02:02:10]: OnGPUnpause	
+[02:02:44]: SendRemoteExecute(globalPauseSet(true))
+[02:04:01]: SendRemoteExecute(globalPauseSet(false))
+[02:04:01]: OnGPUnpause	
+[02:05:26]: SendRemoteExecute(globalPauseSet(true))
+[02:05:39]: SendRemoteExecute(globalPauseSet(false))
+[02:05:39]: OnGPUnpause	
+[02:09:12]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:16:58]: SendRemoteExecute(globalPauseSet(true))
+[02:17:00]: SendRemoteExecute(globalPauseSet(false))
+[02:17:00]: OnGPUnpause	
+[02:17:15]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:25:16]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:30:00]: [200] Account Communication Success (6)
+[02:30:00]: Received (KU_3JaAnfyk) from TokenPurpose
+[02:33:16]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:41:17]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:49:18]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[02:57:19]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[03:00:00]: [200] Account Communication Success (6)
+[03:00:00]: Received (KU_3JaAnfyk) from TokenPurpose
+[03:05:19]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[03:13:20]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[03:21:21]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[03:27:09]: DoRestart:	true	
+[03:27:10]: Serializing user: session/CE356A3F9197B255/A7GD745CD7PE/0000000001
+[03:27:10]: [Steam] Game Connection terminated (16777343|10999)
+[03:27:10]: [Shard] Stopping shard mode
+[03:27:10]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:27:10]: [IPC] Sending signal.... #0x48
+[03:27:13]: [IPC] Unregistering handler for signal #0x43
+[03:27:13]: [IPC] Unregistering handler for signal #0x44
+[03:27:13]: [IPC] Unregistering handler for signal #0x45
+[03:27:13]: [IPC] Unregistering handler for signal #0x46
+[03:27:13]: [IPC] Unregistering handler for signal #0x47
+[03:27:13]: [IPC] Sending signal.... #0x48
+[03:27:13]: [IPC] Sending signal.... #0x4e
+[03:27:14]: [IPC] Unregistering handler for signal #0x49
+[03:27:14]: [IPC] Unregistering handler for signal #0x4a
+[03:27:14]: [IPC] Unregistering handler for signal #0x4b
+[03:27:14]: [IPC] Unregistering handler for signal #0x4c
+[03:27:14]: [IPC] Unregistering handler for signal #0x4d
+[03:27:14]: [IPC] Sending signal.... #0x4e
+[03:27:14]: unloading prefabs for mod MOD_workshop-836583293	
+[03:27:14]: unloading prefabs for mod MOD_workshop-365119238	
+[03:27:14]: unloading prefabs for mod MOD_workshop-758532836	
+[03:27:14]: unloading prefabs for mod MOD_workshop-375859599	
+[03:27:14]: unloading prefabs for mod MOD_workshop-821143467	
+[03:27:14]: unloading prefabs for mod MOD_workshop-842702425	
+[03:27:14]: unloading prefabs for mod MOD_workshop-376333686	
+[03:27:14]: Collecting garbage...
+[03:27:14]: lua_gc took 0.04 seconds
+[03:27:14]: ~ShardLuaProxy()
+[03:27:14]: ~ItemServerLuaProxy()
+[03:27:14]: ~InventoryLuaProxy()
+[03:27:14]: ~NetworkLuaProxy()
+[03:27:14]: ~SimLuaProxy()
+[03:27:14]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:27:15]: lua_close took 0.08 seconds
+[03:27:15]: ReleaseAll
+[03:27:15]: ReleaseAll Finished
+[03:27:15]: cGame::StartPlaying
+[03:27:15]: LOADING LUA
+[03:27:15]: DoLuaFile scripts/main.lua
+[03:27:15]: DoLuaFile loading buffer scripts/main.lua
+[03:27:15]: running main.lua
+	
+[03:27:15]: loaded modindex	
+[03:27:15]: ModIndex: Beginning normal load sequence.
+	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[03:27:15]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[03:27:15]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[03:27:15]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[03:27:15]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[03:27:15]: Could not load mod_config_data/modconfiguration_workshop-821143467	
+[03:27:15]: Loading mod: workshop-821143467 (Wormhole icons) Version:1.2	
+[03:27:15]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[03:27:15]: Loading mod: workshop-836583293 (Item Info) Version:0.3	
+[03:27:15]: loaded mod_config_data/modconfiguration_workshop-842702425	
+[03:27:15]: Loading mod: workshop-842702425 (Minimap HUD MZ) Version:2.6	
+[03:27:15]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[03:27:15]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[03:27:15]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[03:27:15]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[03:27:15]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[03:27:15]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[03:27:15]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[03:27:15]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[03:27:15]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[03:27:15]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[03:27:15]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[03:27:15]: Mod: workshop-821143467 (Wormhole icons)	Loading modworldgenmain.lua	
+[03:27:15]: Mod: workshop-821143467 (Wormhole icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[03:27:15]: Mod: workshop-821143467 (Wormhole icons)	Loading modmain.lua	
+[03:27:15]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modworldgenmain.lua	
+[03:27:15]: Mod: workshop-842702425 (Minimap HUD MZ)	  Mod had no modworldgenmain.lua. Skipping.	
+[03:27:15]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modmain.lua	
+[03:27:15]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[03:27:15]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[03:27:15]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[03:27:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[03:27:15]: LOADING LUA SUCCESS
+[03:27:15]: PlayerDeaths loaded morgue	5572	
+[03:27:15]: PlayerHistory loaded player_history	199	
+[03:27:15]: bloom_enabled	false	
+[03:27:15]: loaded saveindex	
+[03:27:15]: OnFilesLoaded()	
+[03:27:15]: OnUpdatePurchaseStateComplete	
+[03:27:15]: 	Unload BE	
+[03:27:15]: 	Unload BE done	
+[03:27:15]: Could not unload undefined prefab 0xa796fa (minotaurchest)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[03:27:15]: Could not unload undefined prefab 0xc01796b (corn_seeds)
+[03:27:15]: Could not unload undefined prefab 0xb1e7b61 (dragonfruit)
+[03:27:15]: Could not unload undefined prefab 0x71127e3 (carrot_cooked)
+[03:27:15]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[03:27:15]: Could not unload undefined prefab 0x1765df93 (monkey)
+[03:27:15]: Could not unload undefined prefab 0x13c2a611 (gridplacer)
+[03:27:15]: Could not unload undefined prefab 0x162c669d (marble)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[03:27:15]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[03:27:15]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[03:27:15]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:15]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[03:27:15]: Could not unload undefined prefab 0x184178b (meat)
+[03:27:15]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[03:27:15]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[03:27:15]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[03:27:15]: Could not unload undefined prefab 0x1d19e671 (chessjunk_spawner)
+[03:27:15]: Could not unload undefined prefab 0x55862b48 (stalker_minion1)
+[03:27:15]: Could not unload undefined prefab 0x55862b49 (stalker_minion2)
+[03:27:15]: Could not unload undefined prefab 0x184178b (meat)
+[03:27:15]: Could not unload undefined prefab 0xd84f8ee (minotaurchestspawner)
+[03:27:15]: Could not unload undefined prefab 0x4c79e836 (atrium_key_icon)
+[03:27:15]: Could not unload undefined prefab 0x318ff1b0 (minotaur_spawner)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:15]: Could not unload undefined prefab 0x4790f393 (deciduoustree)
+[03:27:15]: Could not unload undefined prefab 0x203935e6 (shadowheart)
+[03:27:15]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[03:27:15]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[03:27:15]: Could not unload undefined prefab 0x10c53670 (stalker_forest)
+[03:27:15]: Could not unload undefined prefab 0x1fa19f1a (fossilspike)
+[03:27:15]: Could not unload undefined prefab 0x67e02798 (fossilspike2)
+[03:27:15]: Could not unload undefined prefab 0x351e1215 (stalker_shield1)
+[03:27:15]: Could not unload undefined prefab 0x351e1216 (stalker_shield2)
+[03:27:15]: Could not unload undefined prefab 0x351e1217 (stalker_shield3)
+[03:27:15]: Could not unload undefined prefab 0x351e1218 (stalker_shield4)
+[03:27:15]: Could not unload undefined prefab 0x5c4a9f29 (stalker_minion)
+[03:27:15]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[03:27:15]: Could not unload undefined prefab 0x41fa4c33 (thurible_smoke)
+[03:27:15]: Could not unload undefined prefab 0x2ffe1998 (flower_evil)
+[03:27:15]: Could not unload undefined prefab 0x24c01fd0 (planted_flower)
+[03:27:15]: Could not unload undefined prefab 0x39eb2c81 (ancient_altar_broken)
+[03:27:15]: Could not unload undefined prefab 0x107f3fc2 (seeds)
+[03:27:15]: Could not unload undefined prefab 0x6d529a32 (smallmeat)
+[03:27:15]: Could not unload undefined prefab 0x39d1762b (cookedsmallmeat)
+[03:27:15]: Could not unload undefined prefab 0x39ecf974 (cutgrass)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[03:27:15]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[03:27:15]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[03:27:15]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[03:27:15]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[03:27:15]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[03:27:15]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x184178b (meat)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x1078732c (character_fire)
+[03:27:15]: Could not unload undefined prefab 0x184178b (meat)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x1078732c (character_fire)
+[03:27:15]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[03:27:15]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[03:27:15]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[03:27:15]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[03:27:15]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[03:27:15]: Could not unload undefined prefab 0x57d6a669 (petrified_tree_fx_short)
+[03:27:15]: Could not unload undefined prefab 0x39dfc71a (petrified_tree_fx_normal)
+[03:27:15]: Could not unload undefined prefab 0x15e8f040 (petrified_tree_fx_tall)
+[03:27:15]: Could not unload undefined prefab 0xb14e9054 (petrified_tree_fx_old)
+[03:27:15]: Could not unload undefined prefab 0x47f35864 (petrified_trunk_break_fx)
+[03:27:15]: Could not unload undefined prefab 0xb50c4e4c (pinecone_sapling)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[03:27:15]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[03:27:15]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[03:27:15]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[03:27:15]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[03:27:15]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[03:27:15]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[03:27:15]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[03:27:15]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[03:27:15]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[03:27:15]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[03:27:15]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[03:27:15]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[03:27:15]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[03:27:15]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[03:27:15]: Could not unload undefined prefab 0x2e54b535 (cane)
+[03:27:15]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[03:27:15]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[03:27:15]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[03:27:15]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0xed18eed (spore_small)
+[03:27:15]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[03:27:15]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[03:27:15]: Could not unload undefined prefab 0x79922e (cane_ancient_fx1)
+[03:27:15]: Could not unload undefined prefab 0x79922f (cane_ancient_fx2)
+[03:27:15]: Could not unload undefined prefab 0x799230 (cane_ancient_fx3)
+[03:27:15]: Could not unload undefined prefab 0x3532833e (minisign_item)
+[03:27:15]: Could not unload undefined prefab 0x65eb274a (petals_evil)
+[03:27:15]: Could not unload undefined prefab 0x359da624 (log)
+[03:27:15]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[03:27:15]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[03:27:15]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[03:27:15]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[03:27:15]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[03:27:15]: Could not unload undefined prefab 0xbc5dcbd5 (poopcloud)
+[03:27:15]: Could not unload undefined prefab 0x2cf27a76 (bishop_charge)
+[03:27:15]: Could not unload undefined prefab 0x2ae7e3b3 (purplegem)
+[03:27:15]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[03:27:15]: Could not unload undefined prefab 0xc6739a73 (thulecite_pieces)
+[03:27:15]: Could not unload undefined prefab 0x96bf006 (bishop_nightmare_spawner)
+[03:27:15]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[03:27:15]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[03:27:15]: Could not unload undefined prefab 0xc5912515 (gargoyle_werepighowl_fx)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[03:27:15]: Could not unload undefined prefab 0x674707c2 (acorn_sapling)
+[03:27:15]: Could not unload undefined prefab 0x7e58aebd (acorn_cooked)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:15]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[03:27:15]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[03:27:15]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[03:27:15]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[03:27:15]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[03:27:15]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[03:27:15]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[03:27:15]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[03:27:15]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[03:27:15]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[03:27:15]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[03:27:15]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[03:27:15]: Could not unload undefined prefab 0xc49ee298 (green_leaves)
+[03:27:15]: Could not unload undefined prefab 0x7132400a (red_leaves)
+[03:27:15]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[03:27:15]: Could not unload undefined prefab 0x5a4e2f2d (orange_leaves)
+[03:27:15]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[03:27:15]: Could not unload undefined prefab 0xc3289d07 (yellow_leaves)
+[03:27:15]: Could not unload undefined prefab 0x6831af1e (yellow_leaves_chop)
+[03:27:15]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[03:27:15]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[03:27:15]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[03:27:15]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[03:27:15]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[03:27:15]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[03:27:15]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[03:27:15]: Could not unload undefined prefab 0x2e54b535 (cane)
+[03:27:15]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[03:27:15]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[03:27:15]: Could not unload undefined prefab 0x97bd555d (gargoyle_hounddeath)
+[03:27:15]: Could not unload undefined prefab 0x956d0cc5 (monstermeat)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0x2c345110 (gargoyle_houndatk_fx)
+[03:27:15]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[03:27:15]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[03:27:15]: Could not unload undefined prefab 0xb0a48afd (gargoyle_werepigdeath_fx)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0xa94d6852 (gift_unwrap)
+[03:27:15]: Could not unload undefined prefab 0xc2b7de33 (ancient_altar)
+[03:27:15]: Could not unload undefined prefab 0x92132840 (poop)
+[03:27:15]: Could not unload undefined prefab 0xb430ba46 (splash_ocean)
+[03:27:15]: Could not unload undefined prefab 0xec8853ad (charcoal)
+[03:27:15]: Could not unload undefined prefab 0x3036fc96 (ash)
+[03:27:15]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[03:27:15]: Could not unload undefined prefab 0xec587250 (gift)
+[03:27:15]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[03:27:15]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[03:27:15]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[03:27:15]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[03:27:15]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[03:27:15]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[03:27:15]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[03:27:15]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[03:27:15]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[03:27:15]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[03:27:15]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[03:27:15]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[03:27:15]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[03:27:15]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[03:27:15]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[03:27:15]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[03:27:15]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[03:27:15]: Could not unload undefined prefab 0xf07d70f5 (bluegem)
+[03:27:15]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[03:27:15]: Could not unload undefined prefab 0xe5306269 (flint)
+[03:27:15]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[03:27:15]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[03:27:15]: Could not unload undefined prefab 0xdf809124 (gears)
+[03:27:15]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[03:27:15]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[03:27:15]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[03:27:15]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[03:27:15]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[03:27:15]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[03:27:15]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[03:27:15]: Could not unload undefined prefab 0xe6af29d2 (compass)
+[03:27:15]: Could not unload undefined prefab 0xec43b9f4 (sewing_kit)
+[03:27:15]: Could not unload undefined prefab 0xf0330963 (panflute)
+[03:27:15]: Could not unload undefined prefab 0x2e54b535 (cane)
+[03:27:15]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[03:27:15]: Could not unload undefined prefab 0xe609bac6 (batwing_cooked)
+[03:27:15]: Could not unload undefined prefab 0x4f30b406 (meat_dried)
+[03:27:15]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[03:27:17]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[03:27:17]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[03:27:17]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[03:27:17]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[03:27:17]: Mod: workshop-821143467 (Wormhole icons)	Registering prefabs	
+[03:27:17]: Mod: workshop-821143467 (Wormhole icons)	  Registering default mod prefab	
+[03:27:17]: Mod: workshop-842702425 (Minimap HUD MZ)	Registering prefabs	
+[03:27:17]: Mod: workshop-842702425 (Minimap HUD MZ)	  Registering default mod prefab	
+[03:27:17]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[03:27:17]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[03:27:17]: 	Load FE	
+[03:27:18]: 	Load FE: done	
+[03:27:18]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[03:27:18]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[03:27:18]: OnLoadUserIdList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[03:27:18]: SimLuaProxy::QueryServer()
+[03:27:18]: ModIndex: Load sequence finished successfully.	
+[03:27:18]: Reset() returning
+[03:30:00]: [200] Account Communication Success (6)
+[03:30:00]: Received (KU_3JaAnfyk) from TokenPurpose
+[03:30:00]: [Steam] Auth Session Ticket requested...
+[03:30:00]: loaded inventory_cache
+[03:30:00]: [Steam] Got Auth Session Ticket
+[03:30:01]: loaded inventory_cache
+[03:33:11]: unloading prefabs for mod MOD_workshop-836583293	
+[03:33:11]: unloading prefabs for mod MOD_workshop-365119238	
+[03:33:11]: unloading prefabs for mod MOD_workshop-821143467	
+[03:33:11]: unloading prefabs for mod MOD_workshop-842702425	
+[03:33:11]: unloading prefabs for mod MOD_workshop-376333686	
+[03:33:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:33:11]: Collecting garbage...
+[03:33:11]: lua_gc took 0.02 seconds
+[03:33:11]: ~ShardLuaProxy()
+[03:33:11]: ~ItemServerLuaProxy()
+[03:33:11]: ~InventoryLuaProxy()
+[03:33:11]: ~NetworkLuaProxy()
+[03:33:11]: ~SimLuaProxy()
+[03:33:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:33:11]: lua_close took 0.05 seconds
+[03:33:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:33:11]: [Steam] Auth ticket cancelled
+[03:33:11]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:33:11]: anim/armor_sanity.zip - 1
+[03:33:11]: anim/batwing.zip - 5
+[03:33:11]: anim/structure_collapse_fx.zip - 2
+[03:33:11]: anim/splash_ocean.zip - 1
+[03:33:11]: anim/gems.zip - 6
+[03:33:11]: anim/pig_build.zip - 1
+[03:33:11]: anim/staff_projectile.zip - 2
+[03:33:11]: anim/amulets.zip - 6
+[03:33:11]: anim/tree_leaf_fx_orange.zip - 1
+[03:33:11]: anim/ds_spider_basic.zip - 2
+[03:33:11]: anim/meat.zip - 5
+[03:33:11]: anim/blueprint_sketch.zip - 3
+[03:33:11]: anim/trinkets.zip - 37
+[03:33:11]: anim/flowers_evil.zip - 1
+[03:33:11]: anim/kiki_nightmare_skin.zip - 1
+[03:33:11]: anim/statue_ruins_small.zip - 4
+[03:33:11]: anim/bishop_attack.zip - 1
+[03:33:11]: anim/hat_mole.zip - 1
+[03:33:11]: anim/staff.zip - 1
+[03:33:11]: anim/ds_pig_actions.zip - 1
+[03:33:11]: anim/statue_ruins.zip - 4
+[03:33:11]: anim/ds_spider2_caves.zip - 1
+[03:33:11]: anim/gears.zip - 1
+[03:33:11]: anim/meat_human.zip - 5
+[03:33:11]: anim/pig_guard_build.zip - 1
+[03:33:11]: anim/wilsonstatue.zip - 1
+[03:33:11]: anim/statue_ruins_small_gem.zip - 4
+[03:33:11]: anim/flowers.zip - 1
+[03:33:11]: anim/flower_petals_evil.zip - 1
+[03:33:11]: anim/swap_staffs.zip - 6
+[03:33:11]: anim/armor_slurtleshell.zip - 1
+[03:33:11]: anim/star_hot.zip - 1
+[03:33:11]: anim/cutgrass.zip - 1
+[03:33:11]: anim/spoiled_food.zip - 1
+[03:33:11]: anim/ds_spider_caves.zip - 1
+[03:33:11]: anim/swap_cane.zip - 1
+[03:33:11]: anim/tentacle_arm.zip - 1
+[03:33:11]: anim/pigspotted_build.zip - 1
+[03:33:11]: anim/nightmarefuel.zip - 1
+[03:33:11]: anim/moonrock_nugget.zip - 1
+[03:33:11]: anim/shadow_insanity1_basic.zip - 1
+[03:33:11]: anim/staffs.zip - 6
+[03:33:11]: anim/log.zip - 1
+[03:33:11]: anim/smoke_puff_small.zip - 1
+[03:33:11]: anim/ds_pig_basic.zip - 1
+[03:33:11]: anim/armor_marble.zip - 1
+[03:33:11]: anim/werepig_build.zip - 1
+[03:33:11]: anim/fire_large_character.zip - 1
+[03:33:11]: anim/poop.zip - 1
+[03:33:11]: anim/cane.zip - 1
+[03:33:11]: anim/tentacle_arm_build.zip - 1
+[03:33:11]: anim/fossil_spike.zip - 1
+[03:33:11]: anim/ds_pig_attacks.zip - 1
+[03:33:11]: anim/werepig_basic.zip - 1
+[03:33:11]: anim/poop_cloud.zip - 1
+[03:33:11]: anim/torso_amulets.zip - 6
+[03:33:11]: anim/meat_small.zip - 5
+[03:33:11]: anim/hat_winter.zip - 1
+[03:33:11]: anim/kiki_build.zip - 1
+[03:33:11]: anim/twiggy_nut.zip - 1
+[03:33:11]: anim/spider_gland.zip - 1
+[03:33:11]: anim/meat_rack_food.zip - 5
+[03:33:11]: anim/hat_catcoon.zip - 1
+[03:33:11]: anim/die.zip - 1
+[03:33:11]: anim/werepig_actions.zip - 1
+[03:33:11]: anim/plant_meat.zip - 5
+[03:33:11]: anim/tree_leaf_fx_red.zip - 1
+[03:33:11]: anim/spider_spit.zip - 1
+[03:33:11]: anim/winter_ornaments.zip - 31
+[03:33:11]: anim/drumstick.zip - 5
+[03:33:11]: anim/sand_puff.zip - 2
+[03:33:11]: anim/hat_walrus.zip - 1
+[03:33:11]: anim/nitre.zip - 1
+[03:33:11]: anim/kiki_basic.zip - 1
+[03:33:11]: anim/charcoal.zip - 1
+[03:33:11]: anim/bat_basic.zip - 1
+[03:33:11]: anim/mushrooms.zip - 3
+[03:33:11]: anim/mandrake.zip - 1
+[03:33:11]: anim/statue_ruins_gem.zip - 4
+[03:33:11]: anim/thulecite.zip - 1
+[03:33:11]: anim/shadow_insanity2_basic.zip - 1
+[03:33:11]: anim/dynamic/firestaff_bee.zip - 1
+[03:33:11]: anim/statue_ruins_fx.zip - 1
+[03:33:11]: anim/ash.zip - 1
+[03:33:11]: anim/silk.zip - 1
+[03:33:11]: anim/star_cold.zip - 1
+[03:33:11]: anim/dynamic/icestaff_bee.zip - 1
+[03:33:11]: anim/hat_beefalo.zip - 1
+[03:33:11]: anim/marble.zip - 1
+[03:33:11]: anim/crafting_table.zip - 2
+[03:33:11]: anim/meat_monster.zip - 5
+[03:33:11]: anim/dynamic/orangestaff_ancient.zip - 1
+[03:33:11]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:33:11]: shaders/ui_yuv.ksh - 1
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:33:11]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:33:11]: anim/ds_spider_caves.zip:DS_spider_caves--atlas-0.tex - 1
+[03:33:11]: anim/staff_projectile.zip:staff_projectile--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[03:33:11]: anim/kiki_basic.zip:kiki_basic--atlas-0.tex - 1
+[03:33:11]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[03:33:11]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[03:33:11]: anim/hat_winter.zip:hat_winter--atlas-0.tex - 1
+[03:33:11]: anim/nitre.zip:nitre--atlas-0.tex - 1
+[03:33:11]: anim/tree_leaf_fx_red.zip:tree_leaf_fx_red--atlas-0.tex - 1
+[03:33:11]: anim/fossil_spike.zip:fossil_spike--atlas-0.tex - 1
+[03:33:11]: anim/werepig_build.zip:werepig_build--atlas-0.tex - 1
+[03:33:11]: anim/bat_basic.zip:bat_basic--atlas-0.tex - 1
+[03:33:11]: anim/gems.zip:gems--atlas-0.tex - 1
+[03:33:11]: anim/hat_catcoon.zip:hat_catcoon--atlas-0.tex - 1
+[03:33:11]: anim/kiki_nightmare_skin.zip:kiki_nightmare_skin--atlas-0.tex - 1
+[03:33:11]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[03:33:11]: anim/moonrock_nugget.zip:moonrock_nugget--atlas-0.tex - 1
+[03:33:11]: anim/pig_guard_build.zip:pig_guard_build--atlas-0.tex - 1
+[03:33:11]: anim/flowers_evil.zip:flowers_evil--atlas-0.tex - 1
+[03:33:11]: anim/amulets.zip:amulets--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[03:33:11]: anim/staffs.zip:staffs--atlas-0.tex - 1
+[03:33:11]: anim/swap_cane.zip:swap_cane--atlas-0.tex - 1
+[03:33:11]: anim/ash.zip:ash--atlas-0.tex - 1
+[03:33:11]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[03:33:11]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[03:33:11]: anim/staff.zip:staff--atlas-0.tex - 1
+[03:33:11]: anim/armor_slurtleshell.zip:armor_slurtleshell--atlas-0.tex - 1
+[03:33:11]: anim/pig_build.zip:pig_build--atlas-0.tex - 1
+[03:33:11]: anim/hat_beefalo.zip:hat_beefalo--atlas-0.tex - 1
+[03:33:11]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[03:33:11]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[03:33:11]: anim/shadow_insanity1_basic.zip:shadow_insanity1_basic--atlas-0.tex - 1
+[03:33:11]: anim/wilsonstatue.zip:wilsonstatue--atlas-0.tex - 1
+[03:33:11]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[03:33:11]: anim/shadow_insanity2_basic.zip:shadow_insanity2_basic--atlas-0.tex - 1
+[03:33:11]: anim/star_cold.zip:star_cold--atlas-0.tex - 1
+[03:33:11]: anim/tree_leaf_fx_orange.zip:tree_leaf_fx_orange--atlas-0.tex - 1
+[03:33:11]: anim/flower_petals_evil.zip:flower_petals_evil--atlas-0.tex - 1
+[03:33:11]: anim/spider_gland.zip:spider_gland--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[03:33:11]: anim/hat_mole.zip:hat_mole--atlas-0.tex - 1
+[03:33:11]: anim/star_hot.zip:star_hot--atlas-0.tex - 1
+[03:33:11]: anim/charcoal.zip:charcoal--atlas-0.tex - 1
+[03:33:11]: anim/flowers.zip:flowers--atlas-0.tex - 1
+[03:33:11]: anim/ds_spider2_caves.zip:DS_spider2_caves--atlas-0.tex - 1
+[03:33:11]: anim/cutgrass.zip:cutgrass--atlas-0.tex - 1
+[03:33:11]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[03:33:11]: anim/poop.zip:poop--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[03:33:11]: anim/trinkets.zip:trinkets--atlas-0.tex - 1
+[03:33:11]: anim/meat.zip:meat--atlas-0.tex - 1
+[03:33:11]: anim/swap_staffs.zip:swap_staffs--atlas-0.tex - 1
+[03:33:11]: anim/poop_cloud.zip:poop_cloud--atlas-0.tex - 1
+[03:33:11]: anim/splash_ocean.zip:splash_ocean--atlas-0.tex - 1
+[03:33:11]: anim/pigspotted_build.zip:pigspotted_build--atlas-0.tex - 1
+[03:33:11]: anim/marble.zip:marble--atlas-0.tex - 1
+[03:33:11]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[03:33:11]: anim/spider_spit.zip:spider_spit--atlas-0.tex - 1
+[03:33:11]: anim/shadow_insanity1_basic.zip:shadow_insanity1_basic--atlas-1.tex - 1
+[03:33:11]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[03:33:11]: anim/log.zip:log--atlas-0.tex - 1
+[03:33:11]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[03:33:11]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[03:33:11]: anim/sand_puff.zip:sand_puff--atlas-0.tex - 1
+[03:33:11]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[03:33:11]: anim/silk.zip:silk--atlas-0.tex - 1
+[03:33:11]: anim/hat_walrus.zip:hat_walrus--atlas-0.tex - 1
+[03:33:11]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[03:33:11]: anim/armor_sanity.zip:armor_sanity--atlas-0.tex - 1
+[03:33:11]: anim/armor_marble.zip:armor_marble--atlas-0.tex - 1
+[03:33:11]: anim/bishop_attack.zip:bishop_attack--atlas-0.tex - 1
+[03:33:11]: anim/blueprint_sketch.zip:blueprint_sketch--atlas-0.tex - 1
+[03:33:11]: anim/crafting_table.zip:crafting_table--atlas-0.tex - 1
+[03:33:11]: anim/torso_amulets.zip:torso_amulets--atlas-0.tex - 1
+[03:33:11]: anim/gears.zip:gears--atlas-0.tex - 1
+[03:33:11]: anim/die.zip:die--atlas-0.tex - 1
+[03:33:11]: anim/winter_ornaments.zip:winter_ornaments--atlas-0.tex - 1
+[03:33:11]: anim/tentacle_arm_build.zip:tentacle_arm_build--atlas-0.tex - 1
+[03:33:11]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[03:33:11]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[03:33:11]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[03:33:11]: anim/twiggy_nut.zip:twiggy_nut--atlas-0.tex - 1
+[03:33:11]: CurlRequestManager::ClientThread::Main() complete
+[03:33:11]: HttpClient2 discarded 0 callbacks.
+[03:33:16]: Shutting down

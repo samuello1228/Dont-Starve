@@ -1,0 +1,9 @@
+[00:12:04]: [Skin Announcement] Lily hand_beltedgloves_red_firehound
+[00:54:14]: [Death Announcement] Lily 死亡，因為： 發條主教。她成了一個令人毛骨悚然的鬼！
+[01:02:07]: [Resurrect Announcement] Lily 復活自 Samuel Lo.
+[01:15:21]: [Death Announcement] Lily 死亡，因為： 獵犬。她成了一個令人毛骨悚然的鬼！
+[01:15:49]: [Leave Announcement] Lily
+[01:49:59]: [Skin Announcement] Lily body_polo_white_marble
+[02:08:41]: [Death Announcement] Samuel Lo 死亡，因為： 蜻蜓龍。他變成一個毛骨悚然的鬼！
+[02:14:53]: [Resurrect Announcement] Samuel Lo 復活自 Lily.
+[02:25:02]: [Death Announcement] Lily 死亡，因為： 夜晚。她成了一個令人毛骨悚然的鬼！

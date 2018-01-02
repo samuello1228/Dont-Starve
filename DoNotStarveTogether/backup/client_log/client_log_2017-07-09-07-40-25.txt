@@ -1,0 +1,687 @@
+[00:00:00]: PersistRootStorage is now /Users/samuel/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 221167
+[00:00:00]: Current time: Sat Jul  8 01:43:53 2017
+
+[00:00:00]: Don't Starve Together: 221167 OSX_STEAM
+[00:00:00]: Build Date: 1877
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 1912704
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2958385152)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.60
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'ConsoleInput' (2960490496)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198191428828
+[00:00:00]: SteamID: 76561198191428828
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: Creating window with size 1376x720 at 18x104
+[00:00:00]: THREAD - started 'SDLInputManager' (2962595840)
+[00:00:00]: OSX version 10.12.5
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Intel Inc.
+[00:00:00]: GL_RENDERER: Intel Iris OpenGL Engine
+[00:00:00]: GL_VERSION: 2.1 INTEL-10.25.13
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:00]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:00]: OpenGL extensions (129, 129):
+[00:00:00]: 
+[00:00:00]: GL_APPLE_aux_depth_stencil
+[00:00:00]: GL_APPLE_client_storage
+[00:00:00]: GL_APPLE_element_array
+[00:00:00]: GL_APPLE_fence
+[00:00:00]: GL_APPLE_float_pixels
+[00:00:00]: GL_APPLE_flush_buffer_range
+[00:00:00]: GL_APPLE_flush_render
+[00:00:00]: GL_APPLE_object_purgeable
+[00:00:00]: GL_APPLE_packed_pixels
+[00:00:00]: GL_APPLE_pixel_buffer
+[00:00:00]: GL_APPLE_rgb_422
+[00:00:00]: GL_APPLE_row_bytes
+[00:00:00]: GL_APPLE_specular_vector
+[00:00:00]: GL_APPLE_texture_range
+[00:00:00]: GL_APPLE_transform_hint
+[00:00:00]: GL_APPLE_vertex_array_object
+[00:00:00]: GL_APPLE_vertex_array_range
+[00:00:00]: GL_APPLE_vertex_point_size
+[00:00:00]: GL_APPLE_vertex_program_evaluators
+[00:00:00]: GL_APPLE_ycbcr_422
+[00:00:00]: GL_ARB_color_buffer_float
+[00:00:00]: GL_ARB_depth_buffer_float
+[00:00:00]: GL_ARB_depth_clamp
+[00:00:00]: GL_ARB_depth_texture
+[00:00:00]: GL_ARB_draw_buffers
+[00:00:00]: GL_ARB_draw_elements_base_vertex
+[00:00:00]: GL_ARB_draw_instanced
+[00:00:00]: GL_ARB_fragment_program
+[00:00:00]: GL_ARB_fragment_program_shadow
+[00:00:00]: GL_ARB_fragment_shader
+[00:00:00]: GL_ARB_framebuffer_object
+[00:00:00]: GL_ARB_framebuffer_sRGB
+[00:00:00]: GL_ARB_half_float_pixel
+[00:00:00]: GL_ARB_half_float_vertex
+[00:00:00]: GL_ARB_instanced_arrays
+[00:00:00]: GL_ARB_multisample
+[00:00:00]: GL_ARB_multitexture
+[00:00:00]: GL_ARB_occlusion_query
+[00:00:00]: GL_ARB_pixel_buffer_object
+[00:00:00]: GL_ARB_point_parameters
+[00:00:00]: GL_ARB_point_sprite
+[00:00:00]: GL_ARB_provoking_vertex
+[00:00:00]: GL_ARB_seamless_cube_map
+[00:00:00]: GL_ARB_shader_objects
+[00:00:00]: GL_ARB_shader_texture_lod
+[00:00:00]: GL_ARB_shading_language_100
+[00:00:00]: GL_ARB_shadow
+[00:00:00]: GL_ARB_sync
+[00:00:00]: GL_ARB_texture_border_clamp
+[00:00:00]: GL_ARB_texture_compression
+[00:00:00]: GL_ARB_texture_compression_rgtc
+[00:00:00]: GL_ARB_texture_cube_map
+[00:00:00]: GL_ARB_texture_env_add
+[00:00:00]: GL_ARB_texture_env_combine
+[00:00:00]: GL_ARB_texture_env_crossbar
+[00:00:00]: GL_ARB_texture_env_dot3
+[00:00:00]: GL_ARB_texture_float
+[00:00:00]: GL_ARB_texture_mirrored_repeat
+[00:00:00]: GL_ARB_texture_non_power_of_two
+[00:00:00]: GL_ARB_texture_rectangle
+[00:00:00]: GL_ARB_texture_rg
+[00:00:00]: GL_ARB_transpose_matrix
+[00:00:00]: GL_ARB_vertex_array_bgra
+[00:00:00]: GL_ARB_vertex_blend
+[00:00:00]: GL_ARB_vertex_buffer_object
+[00:00:00]: GL_ARB_vertex_program
+[00:00:00]: GL_ARB_vertex_shader
+[00:00:00]: GL_ARB_window_pos
+[00:00:00]: GL_ATI_separate_stencil
+[00:00:00]: GL_ATI_texture_env_combine3
+[00:00:00]: GL_ATI_texture_float
+[00:00:00]: GL_ATI_texture_mirror_once
+[00:00:00]: GL_EXT_abgr
+[00:00:00]: GL_EXT_bgra
+[00:00:00]: GL_EXT_blend_color
+[00:00:00]: GL_EXT_blend_equation_separate
+[00:00:00]: GL_EXT_blend_func_separate
+[00:00:00]: GL_EXT_blend_minmax
+[00:00:00]: GL_EXT_blend_subtract
+[00:00:00]: GL_EXT_clip_volume_hint
+[00:00:00]: GL_EXT_debug_label
+[00:00:00]: GL_EXT_debug_marker
+[00:00:00]: GL_EXT_draw_buffers2
+[00:00:00]: GL_EXT_draw_range_elements
+[00:00:00]: GL_EXT_fog_coord
+[00:00:00]: GL_EXT_framebuffer_blit
+[00:00:00]: GL_EXT_framebuffer_multisample
+[00:00:00]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:00]: GL_EXT_framebuffer_object
+[00:00:00]: GL_EXT_framebuffer_sRGB
+[00:00:00]: GL_EXT_geometry_shader4
+[00:00:00]: GL_EXT_gpu_program_parameters
+[00:00:00]: GL_EXT_gpu_shader4
+[00:00:00]: GL_EXT_multi_draw_arrays
+[00:00:00]: GL_EXT_packed_depth_stencil
+[00:00:00]: GL_EXT_packed_float
+[00:00:00]: GL_EXT_provoking_vertex
+[00:00:00]: GL_EXT_rescale_normal
+[00:00:00]: GL_EXT_secondary_color
+[00:00:00]: GL_EXT_separate_specular_color
+[00:00:00]: GL_EXT_shadow_funcs
+[00:00:00]: GL_EXT_stencil_two_side
+[00:00:00]: GL_EXT_stencil_wrap
+[00:00:00]: GL_EXT_texture_array
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_compression_s3tc
+[00:00:00]: GL_EXT_texture_env_add
+[00:00:00]: GL_EXT_texture_filter_anisotropic
+[00:00:00]: GL_EXT_texture_integer
+[00:00:00]: GL_EXT_texture_lod_bias
+[00:00:00]: GL_EXT_texture_rectangle
+[00:00:00]: GL_EXT_texture_sRGB
+[00:00:00]: GL_EXT_texture_sRGB_decode
+[00:00:00]: GL_EXT_texture_shared_exponent
+[00:00:00]: GL_EXT_timer_query
+[00:00:00]: GL_EXT_transform_feedback
+[00:00:00]: GL_EXT_vertex_array_bgra
+[00:00:00]: GL_IBM_rasterpos_clip
+[00:00:00]: GL_NV_blend_square
+[00:00:00]: GL_NV_conditional_render
+[00:00:00]: GL_NV_depth_clamp
+[00:00:00]: GL_NV_fog_distance
+[00:00:00]: GL_NV_light_max_exponent
+[00:00:00]: GL_NV_texgen_reflection
+[00:00:00]: GL_NV_texture_barrier
+[00:00:00]: GL_SGIS_generate_mipmap
+[00:00:00]: GL_SGIS_texture_edge_clamp
+[00:00:00]: GL_SGIS_texture_lod
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:00]: 3 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:01]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:01]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.19	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-821143467	
+[00:00:01]: Loading mod: workshop-821143467 (Wormhole icons) Version:1.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:01]: Loading mod: workshop-836583293 (Item Info) Version:0.3	
+[00:00:01]: loaded mod_config_data/modconfiguration_workshop-842702425	
+[00:00:01]: Loading mod: workshop-842702425 (Minimap HUD MZ) Version:2.6	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:01]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:01]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:02]: LOADING LUA SUCCESS
+[00:00:02]: PlayerDeaths loaded morgue	5572	
+[00:00:02]: PlayerHistory loaded player_history	199	
+[00:00:02]: bloom_enabled	false	
+[00:00:02]: loaded saveindex	
+[00:00:02]: OnFilesLoaded()	
+[00:00:02]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	Registering prefabs	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	Registering prefabs	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: 	Load FE: done	
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:04]: OnLoadUserIdList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:04]: SimLuaProxy::QueryServer()
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: focus gained
+[00:00:08]: [Steam] Auth Session Ticket requested...
+[00:00:08]: [Steam] Got Auth Session Ticket
+[00:00:09]: [200] Account Communication Success (3)
+[00:00:09]: loaded inventory_cache
+[00:00:09]: Logging in as KU_3JaAnfyk
+[00:00:10]: loaded inventory_cache
+[00:00:11]: SimLuaProxy::QueryServer()
+[00:00:15]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:00:15]: Frontend-Unloading mod 'all'.	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:15]: FrontendLoadMod	workshop-758532836	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:15]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:15]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:15]: FrontendLoadMod	workshop-375859599	
+[00:00:15]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:15]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:15]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:15]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:16]: ../mods/workshop-842702425/modicon.tex is 192x192 but compressed textures must have power of 2 dimensions.
+[00:00:16]: ../mods/workshop-606039272/modicon.tex is 72x72 but compressed textures must have power of 2 dimensions.
+[00:00:31]: DownloadPublishedFileV2()
+[00:00:31]: OnDownloadPublishedFileResultV2 
+[00:00:31]:    EResult 1, 844836209924894246
+[00:00:31]:    245850, 385183, [mod_publish_data_file.zip], 76561198025931302
+[00:00:31]: DownloadPublishedFileV2()
+[00:00:31]: THREAD - started 'cUnpackModThread' (2964701184)
+[00:00:31]: ... Directory [anim]
+[00:00:31]: ... File [combinedstatus.tex]
+[00:00:31]: ... File [combinedstatus.xml]
+[00:00:31]: ... Directory [images]
+[00:00:31]: ... File [modinfo.lua]
+[00:00:31]: ... File [modmain.lua]
+[00:00:31]: ... Directory [scripts]
+[00:00:31]: ... File [cave_clock.zip]
+[00:00:31]: ... File [moon_waning_phases.zip]
+[00:00:31]: DelDirectory [../mods/workshop-376333686/anim] 0: ok.
+[00:00:31]: ... File [avatars_combined_status.tex]
+[00:00:31]: ... File [avatars_combined_status.xml]
+[00:00:31]: ... File [bar.tex]
+[00:00:31]: ... File [bar.xml]
+[00:00:31]: ... File [bar_bg.tex]
+[00:00:31]: ... File [bar_bg.xml]
+[00:00:31]: ... File [rain.tex]
+[00:00:31]: ... File [rain.xml]
+[00:00:31]: ... File [status_bgs.tex]
+[00:00:31]: ... File [status_bgs.xml]
+[00:00:31]: OnDownloadPublishedFileResultV2 
+[00:00:31]:    EResult 1, 860599700543837705
+[00:00:31]:    245850, 11531883, [mod_publish_data_file.zip], 76561198118689194
+[00:00:31]: THREAD - started 'cUnpackModThread' (2966806528)
+[00:00:31]: DelDirectory [../mods/workshop-376333686/images] 0: ok.
+[00:00:31]: ... Directory [widgets]
+[00:00:31]: ... File [minibadge.lua]
+[00:00:31]: ... File [playerbadge_combined_status.lua]
+[00:00:31]: ... File [seasonclock.lua]
+[00:00:31]: DelDirectory [../mods/workshop-376333686/scripts/widgets] 0: ok.
+[00:00:31]: DelDirectory [../mods/workshop-376333686/scripts] 0: ok.
+[00:00:31]: DelDirectory [../mods/workshop-376333686] 0: ok.
+[00:00:31]: cWorkshopMod::UnzipMod ../mods/workshop-376333686
+[00:00:31]: ... Directory [anim]
+[00:00:31]: ... Directory [bigportraits]
+[00:00:31]: ... Directory [images]
+[00:00:31]: ... File [modicon.tex]
+[00:00:31]: ... File [modicon.xml]
+[00:00:31]: ... File [modinfo.lua]
+[00:00:31]: ... File [modmain.lua]
+[00:00:31]: ... File [modworldgenmain.lua]
+[00:00:31]: ... Directory [scripts]
+[00:00:31]: ... Directory [sound]
+[00:00:31]: ... File [armor_blubbersuit.zip]
+[00:00:31]: ... File [armor_cactus.zip]
+[00:00:31]: ... File [armor_lifejacket.zip]
+[00:00:31]: ... File [armor_limestone.zip]
+[00:00:31]: ... File [armor_obsidian.zip]
+[00:00:31]: ... File [armor_seashell.zip]
+[00:00:31]: ... File [armor_snakeskin.zip]
+[00:00:31]: ... File [armor_windbreaker.zip]
+[00:00:31]: ... File [beard_woodlegs.zip]
+[00:00:31]: ... File [chiminea.zip]
+[00:00:31]: ... File [coconut.zip]
+[00:00:31]: ... File [cook_pot_food.zip]
+[00:00:31]: ... File [cook_pot_warly.zip]
+[00:00:31]: ... File [cutlass.zip]
+[00:00:31]: ... File [doydoy.zip]
+[00:00:31]: ... File [doydoy_adult_build.zip]
+[00:00:31]: ... File [doydoy_egg.zip]
+[00:00:31]: ... File [dust_fx.zip]
+[00:00:31]: ... File [ghost.zip]
+[00:00:31]: ... File [ghost_pirate_build.zip]
+[00:00:31]: ... File [goldenmachete.zip]
+[00:00:31]: ... File [harpoon.zip]
+[00:00:31]: ... File [hat_aerodynamic.zip]
+[00:00:31]: ... File [hat_brainjelly.zip]
+[00:00:31]: ... File [hat_captain.zip]
+[00:00:31]: ... File [hat_double_umbrella.zip]
+[00:00:31]: ... File [hat_gasmask.zip]
+[00:00:31]: ... File [hat_ox.zip]
+[00:00:31]: ... File [hat_pirate.zip]
+[00:00:31]: ... File [hat_shark_teeth.zip]
+[00:00:31]: ... File [hat_snakeskin.zip]
+[00:00:31]: ... File [hat_woodlegs.zip]
+[00:00:31]: ... File [lantern_bottle.zip]
+[00:00:31]: ... File [machete.zip]
+[00:00:31]: ... File [machete_obsidian.zip]
+[00:00:31]: ... File [obsidian.zip]
+[00:00:31]: ... File [palmleaf.zip]
+[00:00:31]: ... File [palmtree_build.zip]
+[00:00:31]: ... File [palmtree_normal.zip]
+[00:00:31]: ... File [palmtree_short.zip]
+[00:00:31]: ... File [palmtree_tall.zip]
+[00:00:31]: ... File [parasol_palmleaf.zip]
+[00:00:31]: ... File [rock_obsidian.zip]
+[00:00:31]: ... File [spear_obsidian.zip]
+[00:00:31]: ... File [surfboard.zip]
+[00:00:31]: ... File [swap_bottlle_lantern.zip]
+[00:00:31]: ... File [swap_chefpack.zip]
+[00:00:31]: ... File [swap_cutlass.zip]
+[00:00:31]: ... File [swap_goldenmachete.zip]
+[00:00:31]: ... File [swap_harpoon.zip]
+[00:00:31]: ... File [swap_machete.zip]
+[00:00:31]: ... File [swap_machete_obsidian.zip]
+[00:00:31]: ... File [swap_parasol.zip]
+[00:00:31]: ... File [swap_parasol_palmleaf.zip]
+[00:00:31]: ... File [swap_seasack.zip]
+[00:00:31]: ... File [swap_spear_obsidian.zip]
+[00:00:31]: ... File [swap_thatchpack.zip]
+[00:00:31]: ... File [swap_trident.zip]
+[00:00:31]: ... File [trident.zip]
+[00:00:31]: ... File [walani.zip]
+[00:00:31]: ... File [walani_ghost.zip]
+[00:00:31]: ... File [walani_paddle.zip]
+[00:00:31]: ... File [warly.zip]
+[00:00:31]: ... File [warly_ghost.zip]
+[00:00:31]: ... File [wilbur.zip]
+[00:00:31]: ... File [wilbur_ghost.zip]
+[00:00:31]: ... File [wilbur_run.zip]
+[00:00:31]: ... File [woodlegs.zip]
+[00:00:31]: ... File [woodlegs_ghost.zip]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/anim] 0: ok.
+[00:00:31]: ... File [walani.tex]
+[00:00:31]: ... File [walani.xml]
+[00:00:31]: ... File [warly.tex]
+[00:00:31]: ... File [warly.xml]
+[00:00:31]: ... File [wilbur.tex]
+[00:00:31]: ... File [wilbur.xml]
+[00:00:31]: ... File [woodlegs.tex]
+[00:00:31]: ... File [woodlegs.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/bigportraits] 0: ok.
+[00:00:31]: ... Directory [avatars]
+[00:00:31]: ... File [Icon_Nautical_Shop.tex]
+[00:00:31]: ... File [Icon_Nautical_Shop.xml]
+[00:00:31]: ... Directory [inventoryimages]
+[00:00:31]: ... Directory [map_icons]
+[00:00:31]: ... Directory [minimap]
+[00:00:31]: ... Directory [saveslot_portraits]
+[00:00:31]: ... Directory [selectscreen_portraits]
+[00:00:31]: ... File [avatar_ghost_walani.tex]
+[00:00:31]: ... File [avatar_ghost_walani.xml]
+[00:00:31]: ... File [avatar_ghost_warly.tex]
+[00:00:31]: ... File [avatar_ghost_warly.xml]
+[00:00:31]: ... File [avatar_ghost_wilbur.tex]
+[00:00:31]: ... File [avatar_ghost_wilbur.xml]
+[00:00:31]: ... File [avatar_ghost_woodlegs.tex]
+[00:00:31]: ... File [avatar_ghost_woodlegs.xml]
+[00:00:31]: ... File [avatar_walani.tex]
+[00:00:31]: ... File [avatar_walani.xml]
+[00:00:31]: ... File [avatar_warly.tex]
+[00:00:31]: ... File [avatar_warly.xml]
+[00:00:31]: ... File [avatar_wilbur.tex]
+[00:00:31]: ... File [avatar_wilbur.xml]
+[00:00:31]: ... File [avatar_woodlegs.tex]
+[00:00:31]: ... File [avatar_woodlegs.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/avatars] 0: ok.
+[00:00:31]: ... File [donarmorblubbersuit.tex]
+[00:00:31]: ... File [donarmorblubbersuit.xml]
+[00:00:31]: ... File [donarmorlifejacket.tex]
+[00:00:31]: ... File [donarmorlifejacket.xml]
+[00:00:31]: ... File [donarmorlimestone.tex]
+[00:00:31]: ... File [donarmorlimestone.xml]
+[00:00:31]: ... File [donarmorobsidian.tex]
+[00:00:31]: ... File [donarmorobsidian.xml]
+[00:00:31]: ... File [donarmorseashell.tex]
+[00:00:31]: ... File [donarmorseashell.xml]
+[00:00:31]: ... File [donarmorsnakeskin.tex]
+[00:00:31]: ... File [donarmorsnakeskin.xml]
+[00:00:31]: ... File [donarmorwindbreaker.tex]
+[00:00:31]: ... File [donarmorwindbreaker.xml]
+[00:00:31]: ... File [donbottlelantern.tex]
+[00:00:31]: ... File [donbottlelantern.xml]
+[00:00:31]: ... File [doncactusarmour.tex]
+[00:00:31]: ... File [doncactusarmour.xml]
+[00:00:31]: ... File [donchefpack.tex]
+[00:00:31]: ... File [donchefpack.xml]
+[00:00:31]: ... File [donchiminea.tex]
+[00:00:31]: ... File [donchiminea.xml]
+[00:00:31]: ... File [doncoconut.tex]
+[00:00:31]: ... File [doncoconut.xml]
+[00:00:31]: ... File [doncoconut_cooked.tex]
+[00:00:31]: ... File [doncoconut_cooked.xml]
+[00:00:31]: ... File [doncutlass.tex]
+[00:00:31]: ... File [doncutlass.xml]
+[00:00:31]: ... File [dondoydoyegg.tex]
+[00:00:31]: ... File [dondoydoyegg.xml]
+[00:00:31]: ... File [donharpoon.tex]
+[00:00:31]: ... File [donharpoon.xml]
+[00:00:31]: ... File [donhataerodynamic.tex]
+[00:00:31]: ... File [donhataerodynamic.xml]
+[00:00:31]: ... File [donhatbrainjelly.tex]
+[00:00:31]: ... File [donhatbrainjelly.xml]
+[00:00:31]: ... File [donhatcaptain.tex]
+[00:00:31]: ... File [donhatcaptain.xml]
+[00:00:31]: ... File [donhatdoubleumbrella.tex]
+[00:00:31]: ... File [donhatdoubleumbrella.xml]
+[00:00:31]: ... File [donhatgasmask.tex]
+[00:00:31]: ... File [donhatgasmask.xml]
+[00:00:31]: ... File [donhathornedhelmet.tex]
+[00:00:31]: ... File [donhathornedhelmet.xml]
+[00:00:31]: ... File [donhatpirate.tex]
+[00:00:31]: ... File [donhatpirate.xml]
+[00:00:31]: ... File [donhatsharkteeth.tex]
+[00:00:31]: ... File [donhatsharkteeth.xml]
+[00:00:31]: ... File [donhatsnakeskin.tex]
+[00:00:31]: ... File [donhatsnakeskin.xml]
+[00:00:31]: ... File [donluckyhat.tex]
+[00:00:31]: ... File [donluckyhat.xml]
+[00:00:31]: ... File [donmachete.tex]
+[00:00:31]: ... File [donmachete.xml]
+[00:00:31]: ... File [donobsidian.tex]
+[00:00:31]: ... File [donobsidian.xml]
+[00:00:31]: ... File [donobsidianspear.tex]
+[00:00:31]: ... File [donobsidianspear.xml]
+[00:00:31]: ... File [donpalmleaf.tex]
+[00:00:31]: ... File [donpalmleaf.xml]
+[00:00:31]: ... File [donportablecookpotinv.tex]
+[00:00:31]: ... File [donportablecookpotinv.xml]
+[00:00:31]: ... File [donseasack.tex]
+[00:00:31]: ... File [donseasack.xml]
+[00:00:31]: ... File [donsurfboard.tex]
+[00:00:31]: ... File [donsurfboard.xml]
+[00:00:31]: ... File [donthatchpack.tex]
+[00:00:31]: ... File [donthatchpack.xml]
+[00:00:31]: ... File [dontrident.tex]
+[00:00:31]: ... File [dontrident.xml]
+[00:00:31]: ... File [dontropicalparasol.tex]
+[00:00:31]: ... File [dontropicalparasol.xml]
+[00:00:31]: ... File [goldendonmachete.tex]
+[00:00:31]: ... File [goldendonmachete.xml]
+[00:00:31]: ... File [obsidiandonmachete.tex]
+[00:00:31]: ... File [obsidiandonmachete.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/inventoryimages] 0: ok.
+[00:00:31]: ... File [walani.tex]
+[00:00:31]: ... File [walani.xml]
+[00:00:31]: ... File [warly.tex]
+[00:00:31]: ... File [warly.xml]
+[00:00:31]: ... File [wilbur.tex]
+[00:00:31]: ... File [wilbur.xml]
+[00:00:31]: ... File [woodlegs.tex]
+[00:00:31]: ... File [woodlegs.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/map_icons] 0: ok.
+[00:00:31]: ... File [donrockobsidian_icon.tex]
+[00:00:31]: ... File [donrockobsidian_icon.xml]
+[00:00:31]: ... File [dontreepalm_icon.tex]
+[00:00:31]: ... File [dontreepalm_icon.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/minimap] 0: ok.
+[00:00:31]: ... File [walani.tex]
+[00:00:31]: ... File [walani.xml]
+[00:00:31]: ... File [warly.tex]
+[00:00:31]: ... File [warly.xml]
+[00:00:31]: ... File [wilbur.tex]
+[00:00:31]: ... File [wilbur.xml]
+[00:00:31]: ... File [woodlegs.tex]
+[00:00:31]: ... File [woodlegs.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/saveslot_portraits] 0: ok.
+[00:00:31]: ... File [walani.tex]
+[00:00:31]: ... File [walani.xml]
+[00:00:31]: ... File [walani_sombra.tex]
+[00:00:31]: ... File [walani_sombra.xml]
+[00:00:31]: ... File [warly.tex]
+[00:00:31]: ... File [warly.xml]
+[00:00:31]: ... File [warly_sombra.tex]
+[00:00:31]: ... File [warly_sombra.xml]
+[00:00:31]: ... File [wilbur.tex]
+[00:00:31]: ... File [wilbur.xml]
+[00:00:31]: ... File [wilbur_sombra.tex]
+[00:00:31]: ... File [wilbur_sombra.xml]
+[00:00:31]: ... File [woodlegs.tex]
+[00:00:31]: ... File [woodlegs.xml]
+[00:00:31]: ... File [woodlegs_sombra.tex]
+[00:00:31]: ... File [woodlegs_sombra.xml]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images/selectscreen_portraits] 0: ok.
+[00:00:31]: DelDirectory [../mods/workshop-606039272/images] 0: ok.
+[00:00:31]: ... Directory [brains]
+[00:00:31]: ... Directory [components]
+[00:00:31]: ... Directory [prefabs]
+[00:00:31]: ... File [speech_walani.lua]
+[00:00:31]: ... File [speech_warly.lua]
+[00:00:31]: ... File [speech_wilbur.lua]
+[00:00:31]: ... File [speech_woodlegs.lua]
+[00:00:31]: ... Directory [stategraphs]
+[00:00:31]: ... File [dondoydoybrain.lua]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/scripts/brains] 0: ok.
+[00:00:31]: ... File [getitem.lua]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/scripts/components] 0: ok.
+[00:00:31]: ... File [donarmorblubbersuit.lua]
+[00:00:31]: ... File [donarmorlifejacket.lua]
+[00:00:31]: ... File [donarmorlimestone.lua]
+[00:00:31]: ... File [donarmorobsidian.lua]
+[00:00:31]: ... File [donarmorseashell.lua]
+[00:00:31]: ... File [donarmorsnakeskin.lua]
+[00:00:31]: ... File [donarmorwindbreaker.lua]
+[00:00:31]: ... File [donbottlelantern.lua]
+[00:00:31]: ... File [doncactusarmour.lua]
+[00:00:31]: ... File [donchefpack.lua]
+[00:00:31]: ... File [donchiminea.lua]
+[00:00:31]: ... File [doncoconut.lua]
+[00:00:31]: ... File [doncutlass.lua]
+[00:00:31]: ... File [dondoydoy.lua]
+[00:00:31]: ... File [dondoydoyegg.lua]
+[00:00:31]: ... File [donharpoon.lua]
+[00:00:31]: ... File [donhataerodynamic.lua]
+[00:00:31]: ... File [donhatbrainjelly.lua]
+[00:00:31]: ... File [donhatcaptain.lua]
+[00:00:31]: ... File [donhatdoubleumbrella.lua]
+[00:00:31]: ... File [donhatgasmask.lua]
+[00:00:31]: ... File [donhathornedhelmet.lua]
+[00:00:31]: ... File [donhatpirate.lua]
+[00:00:31]: ... File [donhatsharkteeth.lua]
+[00:00:31]: ... File [donhatsnakeskin.lua]
+[00:00:31]: ... File [donluckyhat.lua]
+[00:00:31]: ... File [donmachete.lua]
+[00:00:31]: ... File [donobsidian.lua]
+[00:00:31]: ... File [donobsidianspear.lua]
+[00:00:31]: ... File [donpalmleaf.lua]
+[00:00:31]: ... File [donpalmtree.lua]
+[00:00:31]: ... File [donportablecookpotinv.lua]
+[00:00:31]: ... File [donportablecookpotmap.lua]
+[00:00:31]: ... File [donrockobsidian.lua]
+[00:00:31]: ... File [donseasack.lua]
+[00:00:31]: ... File [donsurfboard.lua]
+[00:00:31]: ... File [donthatchpack.lua]
+[00:00:31]: ... File [dontrident.lua]
+[00:00:31]: ... File [dontropicalparasol.lua]
+[00:00:31]: ... File [walani.lua]
+[00:00:31]: ... File [walani_none.lua]
+[00:00:31]: ... File [warly.lua]
+[00:00:31]: ... File [warly_none.lua]
+[00:00:31]: ... File [wilbur.lua]
+[00:00:31]: ... File [wilbur_none.lua]
+[00:00:31]: ... File [woodlegs.lua]
+[00:00:31]: ... File [woodlegs_none.lua]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/scripts/prefabs] 0: ok.
+[00:00:31]: ... File [SGdondoydoy.lua]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/scripts/stategraphs] 0: ok.
+[00:00:31]: DelDirectory [../mods/workshop-606039272/scripts] 0: ok.
+[00:00:31]: ... File [dondoydoysons.fev]
+[00:00:31]: ... File [dondoydoysons_bank01.fsb]
+[00:00:31]: ... File [walani.fev]
+[00:00:31]: ... File [walani_bank01.fsb]
+[00:00:31]: ... File [warly.fev]
+[00:00:31]: ... File [warly_bank00.fsb]
+[00:00:31]: ... File [wilbur.fev]
+[00:00:31]: ... File [wilbur_bank00.fsb]
+[00:00:31]: ... File [woodlegs.fev]
+[00:00:31]: ... File [woodlegs_bank01.fsb]
+[00:00:31]: DelDirectory [../mods/workshop-606039272/sound] 0: ok.
+[00:00:31]: DelDirectory [../mods/workshop-606039272] 0: ok.
+[00:00:31]: cWorkshopMod::UnzipMod ../mods/workshop-606039272
+[00:00:37]: Frontend-Unloading mod 'all'.	
+[00:00:43]: unloading prefabs for mod MOD_workshop-836583293	
+[00:00:43]: unloading prefabs for mod MOD_workshop-365119238	
+[00:00:43]: unloading prefabs for mod MOD_workshop-821143467	
+[00:00:43]: unloading prefabs for mod MOD_workshop-842702425	
+[00:00:43]: unloading prefabs for mod MOD_workshop-376333686	
+[00:00:43]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:43]: Collecting garbage...
+[00:00:43]: lua_gc took 0.02 seconds
+[00:00:43]: ~ShardLuaProxy()
+[00:00:43]: ~ItemServerLuaProxy()
+[00:00:43]: ~InventoryLuaProxy()
+[00:00:43]: ~NetworkLuaProxy()
+[00:00:43]: ~SimLuaProxy()
+[00:00:43]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:43]: lua_close took 0.06 seconds
+[00:00:43]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:43]: [Steam] Auth ticket cancelled
+[00:00:43]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:00:43]: shaders/ui_yuv.ksh - 1
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:43]: CurlRequestManager::ClientThread::Main() complete
+[00:00:43]: HttpClient2 discarded 0 callbacks.
+[00:00:43]: Shutting down

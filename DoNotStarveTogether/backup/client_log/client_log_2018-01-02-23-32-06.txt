@@ -1,0 +1,417 @@
+[00:00:00]: PersistRootStorage is now /Users/samuel/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 247691
+[00:00:00]: Current time: Tue Jan  2 23:22:07 2018
+
+[00:00:00]: Don't Starve Together: 247691 OSX_STEAM
+[00:00:00]: Build Date: 2393
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 2384119
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2957492224)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:4.77
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (2960130048)
+[00:00:00]: loaded ping_cache
+[00:00:00]: Offline user ID: OU_76561198191428828
+[00:00:00]: SteamID: 76561198191428828
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: Creating window with size 1376x720 at 18x104
+[00:00:00]: THREAD - started 'SDLInputManager' (2962235392)
+[00:00:00]: OSX version 10.12.6
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Intel Inc.
+[00:00:00]: GL_RENDERER: Intel Iris OpenGL Engine
+[00:00:00]: GL_VERSION: 2.1 INTEL-10.25.17
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:00]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:00]: OpenGL extensions (129, 129):
+[00:00:00]: 
+[00:00:00]: GL_APPLE_aux_depth_stencil
+[00:00:00]: GL_APPLE_client_storage
+[00:00:00]: GL_APPLE_element_array
+[00:00:00]: GL_APPLE_fence
+[00:00:00]: GL_APPLE_float_pixels
+[00:00:00]: GL_APPLE_flush_buffer_range
+[00:00:00]: GL_APPLE_flush_render
+[00:00:00]: GL_APPLE_object_purgeable
+[00:00:00]: GL_APPLE_packed_pixels
+[00:00:00]: GL_APPLE_pixel_buffer
+[00:00:00]: GL_APPLE_rgb_422
+[00:00:00]: GL_APPLE_row_bytes
+[00:00:00]: GL_APPLE_specular_vector
+[00:00:00]: GL_APPLE_texture_range
+[00:00:00]: GL_APPLE_transform_hint
+[00:00:00]: GL_APPLE_vertex_array_object
+[00:00:00]: GL_APPLE_vertex_array_range
+[00:00:00]: GL_APPLE_vertex_point_size
+[00:00:00]: GL_APPLE_vertex_program_evaluators
+[00:00:00]: GL_APPLE_ycbcr_422
+[00:00:00]: GL_ARB_color_buffer_float
+[00:00:00]: GL_ARB_depth_buffer_float
+[00:00:00]: GL_ARB_depth_clamp
+[00:00:00]: GL_ARB_depth_texture
+[00:00:00]: GL_ARB_draw_buffers
+[00:00:00]: GL_ARB_draw_elements_base_vertex
+[00:00:00]: GL_ARB_draw_instanced
+[00:00:00]: GL_ARB_fragment_program
+[00:00:00]: GL_ARB_fragment_program_shadow
+[00:00:00]: GL_ARB_fragment_shader
+[00:00:00]: GL_ARB_framebuffer_object
+[00:00:00]: GL_ARB_framebuffer_sRGB
+[00:00:00]: GL_ARB_half_float_pixel
+[00:00:00]: GL_ARB_half_float_vertex
+[00:00:00]: GL_ARB_instanced_arrays
+[00:00:00]: GL_ARB_multisample
+[00:00:00]: GL_ARB_multitexture
+[00:00:00]: GL_ARB_occlusion_query
+[00:00:00]: GL_ARB_pixel_buffer_object
+[00:00:00]: GL_ARB_point_parameters
+[00:00:00]: GL_ARB_point_sprite
+[00:00:00]: GL_ARB_provoking_vertex
+[00:00:00]: GL_ARB_seamless_cube_map
+[00:00:00]: GL_ARB_shader_objects
+[00:00:00]: GL_ARB_shader_texture_lod
+[00:00:00]: GL_ARB_shading_language_100
+[00:00:00]: GL_ARB_shadow
+[00:00:00]: GL_ARB_sync
+[00:00:00]: GL_ARB_texture_border_clamp
+[00:00:00]: GL_ARB_texture_compression
+[00:00:00]: GL_ARB_texture_compression_rgtc
+[00:00:00]: GL_ARB_texture_cube_map
+[00:00:00]: GL_ARB_texture_env_add
+[00:00:00]: GL_ARB_texture_env_combine
+[00:00:00]: GL_ARB_texture_env_crossbar
+[00:00:00]: GL_ARB_texture_env_dot3
+[00:00:00]: GL_ARB_texture_float
+[00:00:00]: GL_ARB_texture_mirrored_repeat
+[00:00:00]: GL_ARB_texture_non_power_of_two
+[00:00:00]: GL_ARB_texture_rectangle
+[00:00:00]: GL_ARB_texture_rg
+[00:00:00]: GL_ARB_transpose_matrix
+[00:00:00]: GL_ARB_vertex_array_bgra
+[00:00:00]: GL_ARB_vertex_blend
+[00:00:00]: GL_ARB_vertex_buffer_object
+[00:00:00]: GL_ARB_vertex_program
+[00:00:00]: GL_ARB_vertex_shader
+[00:00:00]: GL_ARB_window_pos
+[00:00:00]: GL_ATI_separate_stencil
+[00:00:00]: GL_ATI_texture_env_combine3
+[00:00:00]: GL_ATI_texture_float
+[00:00:00]: GL_ATI_texture_mirror_once
+[00:00:00]: GL_EXT_abgr
+[00:00:00]: GL_EXT_bgra
+[00:00:00]: GL_EXT_blend_color
+[00:00:00]: GL_EXT_blend_equation_separate
+[00:00:00]: GL_EXT_blend_func_separate
+[00:00:00]: GL_EXT_blend_minmax
+[00:00:00]: GL_EXT_blend_subtract
+[00:00:00]: GL_EXT_clip_volume_hint
+[00:00:00]: GL_EXT_debug_label
+[00:00:00]: GL_EXT_debug_marker
+[00:00:00]: GL_EXT_draw_buffers2
+[00:00:00]: GL_EXT_draw_range_elements
+[00:00:00]: GL_EXT_fog_coord
+[00:00:00]: GL_EXT_framebuffer_blit
+[00:00:00]: GL_EXT_framebuffer_multisample
+[00:00:00]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:00]: GL_EXT_framebuffer_object
+[00:00:00]: GL_EXT_framebuffer_sRGB
+[00:00:00]: GL_EXT_geometry_shader4
+[00:00:00]: GL_EXT_gpu_program_parameters
+[00:00:00]: GL_EXT_gpu_shader4
+[00:00:00]: GL_EXT_multi_draw_arrays
+[00:00:00]: GL_EXT_packed_depth_stencil
+[00:00:00]: GL_EXT_packed_float
+[00:00:00]: GL_EXT_provoking_vertex
+[00:00:00]: GL_EXT_rescale_normal
+[00:00:00]: GL_EXT_secondary_color
+[00:00:00]: GL_EXT_separate_specular_color
+[00:00:00]: GL_EXT_shadow_funcs
+[00:00:00]: GL_EXT_stencil_two_side
+[00:00:00]: GL_EXT_stencil_wrap
+[00:00:00]: GL_EXT_texture_array
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_compression_s3tc
+[00:00:00]: GL_EXT_texture_env_add
+[00:00:00]: GL_EXT_texture_filter_anisotropic
+[00:00:00]: GL_EXT_texture_integer
+[00:00:00]: GL_EXT_texture_lod_bias
+[00:00:00]: GL_EXT_texture_rectangle
+[00:00:00]: GL_EXT_texture_sRGB
+[00:00:00]: GL_EXT_texture_sRGB_decode
+[00:00:00]: GL_EXT_texture_shared_exponent
+[00:00:00]: GL_EXT_timer_query
+[00:00:00]: GL_EXT_transform_feedback
+[00:00:00]: GL_EXT_vertex_array_bgra
+[00:00:00]: GL_IBM_rasterpos_clip
+[00:00:00]: GL_NV_blend_square
+[00:00:00]: GL_NV_conditional_render
+[00:00:00]: GL_NV_depth_clamp
+[00:00:00]: GL_NV_fog_distance
+[00:00:00]: GL_NV_light_max_exponent
+[00:00:00]: GL_NV_texgen_reflection
+[00:00:00]: GL_NV_texture_barrier
+[00:00:00]: GL_SGIS_generate_mipmap
+[00:00:00]: GL_SGIS_texture_edge_clamp
+[00:00:00]: GL_SGIS_texture_lod
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:00]: GL_MAX_VARYING_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:00]: 3 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence.
+	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-365119238	
+[00:00:01]: Loading mod: workshop-365119238 (SmartCrockPot) Version:4.02	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-376333686	
+[00:00:01]: Loading mod: workshop-376333686 (Combined Status) Version:1.6.21	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-821143467	
+[00:00:01]: Loading mod: workshop-821143467 (Wormhole icons) Version:1.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-836583293	
+[00:00:01]: Loading mod: workshop-836583293 (Item Info) Version:0.52	
+[00:00:01]: loaded mod_config_data/modconfiguration_workshop-842702425	
+[00:00:01]: Loading mod: workshop-842702425 (Minimap HUD MZ) Version:2.62	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-836583293 (Item Info)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-365119238 (SmartCrockPot)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containerwidgetfunction.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/containers_setup.lua	
+[00:00:01]: modimport: ../mods/workshop-365119238/modmain_segments/action_predict.lua	
+[00:00:01]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:01]: Action defined at 	../mods/workshop-365119238/modmain_segments/action_predict.lua:1 in (local) result (main) <0-0>	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-821143467 (Wormhole icons)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-842702425 (Minimap HUD MZ)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-376333686 (Combined Status)	Loading modmain.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-365119238	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-376333686	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-821143467	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-836583293	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-842702425	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:03]: PlayerDeaths loaded morgue	5572	
+[00:00:03]: PlayerHistory loaded player_history	328	
+[00:00:03]: bloom_enabled	false	
+[00:00:03]: loaded saveindex	
+[00:00:03]: OnFilesLoaded()	
+[00:00:03]: OnUpdatePurchaseStateComplete	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	Registering prefabs	
+[00:00:03]: Mod: workshop-836583293 (Item Info)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	Registering prefabs	
+[00:00:03]: Mod: workshop-365119238 (SmartCrockPot)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	Registering prefabs	
+[00:00:03]: Mod: workshop-821143467 (Wormhole icons)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	Registering prefabs	
+[00:00:03]: Mod: workshop-842702425 (Minimap HUD MZ)	  Registering default mod prefab	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	Registering prefabs	
+[00:00:03]: Mod: workshop-376333686 (Combined Status)	  Registering default mod prefab	
+[00:00:03]: 	Load FE	
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (2964340736)
+[00:00:04]: 	Load FE: done	
+[00:00:04]: FilesExistAsyncThread started (13209 files)...
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:04]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:04]: OnLoadUserIdList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:04]: ModIndex: Load sequence finished successfully.	
+[00:00:04]: Reset() returning
+[00:00:04]: focus gained
+[00:00:05]: ... FilesExistAsyncThread complete
+[00:00:08]: [Steam] Auth Session Ticket requested...
+[00:00:09]: [Steam] Got Auth Session Ticket
+[00:00:11]: [200] Account Communication Success (3)
+[00:00:11]: Logging in as KU_3JaAnfyk
+[00:00:13]: loaded inventory_cache
+[00:00:14]: loaded inventory_cache
+[00:00:14]: SimLuaProxy::QueryServer()
+[00:00:17]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:00:17]: Frontend-Unloading mod 'all'.	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:17]: FrontendLoadMod	workshop-758532836	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:17]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:17]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:17]: FrontendLoadMod	workshop-378160973	
+[00:00:17]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:17]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:17]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:18]: ../mods/workshop-606039272/modicon.tex is 72x72 but compressed textures must have power of 2 dimensions.
+[00:00:24]: Frontend-Unloading mod 'all'.	
+[00:00:24]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:24]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:24]: FrontendLoadMod	workshop-758532836	
+[00:00:24]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:24]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:24]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:24]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:24]: FrontendLoadMod	workshop-375859599	
+[00:00:24]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:24]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:24]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:24]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:26]: Frontend-Unloading mod 'all'.	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:26]: FrontendLoadMod	workshop-758532836	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:26]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:26]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:26]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:26]: FrontendLoadMod	workshop-378160973	
+[00:00:26]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:26]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:26]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:26]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: Frontend-Unloading mod 'all'.	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:30]: FrontendLoadMod	workshop-758532836	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:30]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:30]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:30]: FrontendLoadMod	workshop-375859599	
+[00:00:30]: loaded mod_config_data/modconfiguration_workshop-375859599	
+[00:00:30]: Fontend-Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:30]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:31]: Frontend-Unloading mod 'all'.	
+[00:00:31]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:31]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:31]: FrontendLoadMod	workshop-758532836	
+[00:00:31]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:00:31]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:31]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:31]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:31]: FrontendLoadMod	workshop-378160973	
+[00:00:31]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:00:31]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:31]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:31]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:13]: Frontend-Unloading mod 'all'.	
+[00:01:15]: QueryStats: { "req":"modrank", "field":"Session.Loads.Mods.list", "fieldop":"unwind", "linkpref":"klei", "limit": 20}
+[00:01:15]: Frontend-Unloading mod 'all'.	
+[00:01:15]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:01:15]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:01:15]: FrontendLoadMod	workshop-758532836	
+[00:01:15]: loaded mod_config_data/modconfiguration_workshop-758532836	
+[00:01:15]: Fontend-Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:01:15]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:01:15]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:15]: FrontendLoadMod	workshop-378160973	
+[00:01:15]: loaded mod_config_data/modconfiguration_workshop-378160973	
+[00:01:15]: Fontend-Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:01:15]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:01:16]: ../mods/workshop-606039272/modicon.tex is 72x72 but compressed textures must have power of 2 dimensions.
+[00:01:20]: Frontend-Unloading mod 'all'.	
+[00:01:25]: unloading prefabs for mod MOD_workshop-836583293	
+[00:01:25]: unloading prefabs for mod MOD_workshop-365119238	
+[00:01:25]: unloading prefabs for mod MOD_workshop-821143467	
+[00:01:25]: unloading prefabs for mod MOD_workshop-842702425	
+[00:01:25]: unloading prefabs for mod MOD_workshop-376333686	
+[00:01:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:25]: Collecting garbage...
+[00:01:25]: lua_gc took 0.04 seconds
+[00:01:25]: ~ShardLuaProxy()
+[00:01:25]: ~ItemServerLuaProxy()
+[00:01:25]: ~InventoryLuaProxy()
+[00:01:25]: ~NetworkLuaProxy()
+[00:01:25]: ~SimLuaProxy()
+[00:01:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:25]: lua_close took 0.07 seconds
+[00:01:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:25]: [Steam] Auth ticket cancelled
+[00:01:25]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:01:25]: shaders/ui_yuv.ksh - 1
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:01:25]: CurlRequestManager::ClientThread::Main() complete
+[00:01:25]: HttpClient2 discarded 0 callbacks.
+[00:01:25]: Shutting down

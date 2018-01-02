@@ -1,0 +1,559 @@
+[00:00:00]: PersistRootStorage is now /Users/samuel/Documents/Klei//DoNotStarveTogether/Cluster_1/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 217693
+[00:00:00]: Current time: Wed May 24 17:44:21 2017
+
+[00:00:00]: Don't Starve Together: 217693 OSX
+[00:00:00]: Build Date: 1924
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -monitor_parent_process 12591 -persistent_storage_root /Users/samuel/Documents/Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -ownernetid 76561198191428828 -backup_log_count 10 -shard Caves -sigprefix DST_Slave 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2958598144)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:4.73
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /Users/samuel/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:00]: Offline user ID: OU_76561198191428828
+[00:00:00]: Token retrieved from: /Users/samuel/Documents/Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /Users/samuel/Documents/Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: THREAD - started 'ConsoleInput' (2960703488)
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: modoverrides.lua enabling workshop-758532836	
+[00:00:00]: modoverrides.lua enabling workshop-375859599	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:00]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:00]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:00]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:00]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:00]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:00]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:00]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:00]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:00]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:00]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:00]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:00]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:00]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:00]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:00]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:00]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:00]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:00]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:00]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:00]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:00]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:00]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:00]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:00]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: Registering mod namespace "globalpause"
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: bloom_enabled	false	
+[00:00:01]: loaded saveindex	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:02]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:00:02]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:02]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:02]: 	Load FE	
+[00:00:03]: 	Load FE: done	
+[00:00:03]: ModIndex: Load sequence finished successfully.	
+[00:00:03]: Reset() returning
+[00:00:03]: [IPC] Signal created '/DST_Slave_Kill'  #0xb0
+[00:00:03]: [IPC] Registering handler for signal #0xb0
+[00:00:03]: [IPC] Signal created '/DST_Slave_Starting'  #0xb2
+[00:00:03]: [IPC] Sending signal.... #0xb2
+[00:00:03]: [200] Account Communication Success (6)
+[00:00:03]: Received (KU_3JaAnfyk) from TokenPurpose
+[00:00:03]: Starting Dedicated Server Game	
+[00:00:03]: Network tick rate: U=15(2), D=0
+[00:00:03]: About to start a server with the following settings:
+[00:00:03]:   Dedicated: true
+[00:00:03]:   Online: true
+[00:00:03]:   Passworded: false
+[00:00:03]:   ServerPort: 10998
+[00:00:03]:   SteamAuthPort: 8767
+[00:00:03]:   SteamMasterServerPort: 27017
+[00:00:03]:   ClanID: false
+[00:00:03]:   ClanOnly: false
+[00:00:03]:   ClanAdmin: false
+[00:00:03]:   LanOnly: true
+[00:00:03]:   FriendsOnly: false
+[00:00:03]:   EnableAutosaver: true
+[00:00:03]:   EncodeUserPath: false
+[00:00:03]:   PVP: false
+[00:00:03]:   Event: false
+[00:00:03]:   MaxPlayers: 1
+[00:00:03]:   GameMode: endless
+[00:00:03]:   OverridenDNS: 
+[00:00:03]:   PauseWhenEmpty: true
+[00:00:03]:   VoteEnabled: false
+[00:00:03]:   InternetBroadcasting: true
+[00:00:03]:   Intent: social
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:00:08]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:08]: Online Server Started on port: 10998
+[00:00:08]: unloading prefabs for mod MOD_workshop-758532836	
+[00:00:08]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:08]: Collecting garbage...
+[00:00:08]: lua_gc took 0.03 seconds
+[00:00:08]: ~ShardLuaProxy()
+[00:00:08]: ~ItemServerLuaProxy()
+[00:00:08]: ~InventoryLuaProxy()
+[00:00:08]: ~NetworkLuaProxy()
+[00:00:08]: ~SimLuaProxy()
+[00:00:08]: lua_close took 0.08 seconds
+[00:00:08]: ReleaseAll
+[00:00:08]: ReleaseAll Finished
+[00:00:08]: cGame::StartPlaying
+[00:00:08]: LOADING LUA
+[00:00:08]: DoLuaFile scripts/main.lua
+[00:00:08]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]: running main.lua
+	
+[00:00:09]: loaded modindex	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: modoverrides.lua enabling workshop-758532836	
+[00:00:09]: modoverrides.lua enabling workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:09]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:09]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:09]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:09]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:09]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:09]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:09]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:09]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:09]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:09]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:09]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:09]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:09]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:09]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:09]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:09]: Registering mod namespace "globalpause"
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: bloom_enabled	false	
+[00:00:09]: loaded saveindex	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: 	Unload FE	
+[00:00:09]: 	Unload FE done	
+[00:00:09]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:00:09]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:09]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:09]: 	LOAD BE	
+[00:00:13]: 	LOAD BE: done	
+[00:00:13]: Loading world: session/6FA87BF991FAC6A9/0000000241	
+[00:00:13]: Save file is at version 4.77	
+[00:00:13]: Begin Session: 6FA87BF991FAC6A9
+[00:00:13]: saving to server_temp/server_save	
+[00:00:13]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:15]: Loading Nav Grid	
+[00:00:15]: setting 	summerlength	15	
+[00:00:15]: setting 	isnightmaredawn	false	
+[00:00:15]: setting 	elapseddaysinseason	0	
+[00:00:15]: setting 	isfullmoon	false	
+[00:00:15]: setting 	moisture	7506.8232421875	
+[00:00:15]: setting 	springlength	20	
+[00:00:15]: setting 	isnightmarewild	false	
+[00:00:15]: setting 	moonphase	new	
+[00:00:15]: setting 	precipitationrate	0	
+[00:00:15]: setting 	iswet	false	
+[00:00:15]: setting 	isnewmoon	false	
+[00:00:15]: setting 	iswinter	true	
+[00:00:15]: setting 	israining	false	
+[00:00:15]: setting 	isnightmarewarn	false	
+[00:00:15]: setting 	precipitation	none	
+[00:00:15]: setting 	cavephase	dusk	
+[00:00:15]: setting 	moistureceil	11654.475585938	
+[00:00:15]: setting 	isday	false	
+[00:00:15]: setting 	iscaveday	false	
+[00:00:15]: setting 	season	winter	
+[00:00:15]: setting 	timeinphase	0.35663935343424	
+[00:00:15]: setting 	temperature	3.0000867012791	
+[00:00:15]: setting 	isnightmarecalm	true	
+[00:00:15]: setting 	isnight	true	
+[00:00:15]: setting 	isdusk	false	
+[00:00:15]: setting 	iscavedusk	true	
+[00:00:15]: setting 	isautumn	false	
+[00:00:15]: setting 	issnowing	false	
+[00:00:15]: setting 	iswaxingmoon	true	
+[00:00:15]: setting 	pop	0.63124840406251	
+[00:00:15]: setting 	snowlevel	0	
+[00:00:15]: setting 	issnowcovered	false	
+[00:00:15]: setting 	autumnlength	20	
+[00:00:15]: setting 	phase	night	
+[00:00:15]: setting 	nightmaretime	128.97269167317	
+[00:00:15]: setting 	winterlength	15	
+[00:00:15]: setting 	isspring	false	
+[00:00:15]: setting 	nightmarephase	calm	
+[00:00:15]: setting 	remainingdaysinseason	15	
+[00:00:15]: setting 	cycles	230	
+[00:00:15]: setting 	iscavenight	false	
+[00:00:15]: setting 	nightmaretimeinphase	0.35825747686991	
+[00:00:15]: setting 	wetness	0	
+[00:00:15]: setting 	time	0.5489497979482	
+[00:00:15]: setting 	issummer	false	
+[00:00:15]: [Shard] Slave is waiting for LUA...
+[00:00:22]: Reconstructing topology	
+[00:00:22]: 	...Sorting points	
+[00:00:22]: 	...Sorting edges	
+[00:00:22]: 	...Connecting nodes	
+[00:00:22]: 	...Validating connections	
+[00:00:22]: 	...Housekeeping	
+[00:00:22]: 	...Done!	
+[00:00:22]: 1 uploads added to server. From server_temp
+[00:00:22]: About to start a shard with these settings:
+[00:00:22]:   ShardName: Caves
+[00:00:22]:   ShardID: 2432934339
+[00:00:22]:   ShardRole: SLAVE
+[00:00:22]:   MasterHost: 127.0.0.1
+[00:00:22]:   MasterBind: (null)
+[00:00:22]:   MasterPort: 10888
+[00:00:27]: [Shard] Connecting to master...
+[00:00:27]: Telling Client our new session identifier: 6FA87BF991FAC6A9
+[00:00:27]: ModIndex: Load sequence finished successfully.	
+[00:00:27]: Reset() returning
+[00:00:27]: [Steam] SteamGameServer_Init(8767, 10998, 27017)
+[00:00:28]: [Steam] SteamGameServer_Init success
+[00:00:28]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:28]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:28]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:28]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:28]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:28]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:28]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:28]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:28]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:28]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:28]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:33]: About to start a shard with these settings:
+[00:00:33]:   ShardName: Caves
+[00:00:33]:   ShardID: 2432934339
+[00:00:33]:   ShardRole: SLAVE
+[00:00:33]:   MasterHost: 127.0.0.1
+[00:00:33]:   MasterBind: (null)
+[00:00:33]:   MasterPort: 10888
+[00:00:38]: [Shard] Connecting to master...
+[00:00:38]: [Shard] Sending slave information to master...
+[00:00:38]: [Shard] Registering in lobby as a slave server...
+[00:00:39]: [Shard] Slave is now ready!
+[00:00:39]: Synchronizing backward to master snapshot 240	
+[00:00:39]: Truncating to snapshot #240...
+[00:00:39]:  - session/6FA87BF991FAC6A9/0000000241
+[00:00:39]:    1 file(s) removed
+[00:00:39]: unloading prefabs for mod MOD_workshop-758532836	
+[00:00:39]: unloading prefabs for mod MOD_workshop-375859599	
+[00:00:39]: World 1 is now connected	
+[00:00:39]: Validating portal[9] <-> 1[9] (active)	
+[00:00:39]: Validating portal[8] <-> 1[8] (active)	
+[00:00:39]: Validating portal[7] <-> 1[7] (active)	
+[00:00:39]: Validating portal[6] <-> 1[6] (active)	
+[00:00:39]: Validating portal[5] <-> 1[5] (active)	
+[00:00:39]: Validating portal[3] <-> 1[3] (active)	
+[00:00:39]: Validating portal[1] <-> 1[1] (active)	
+[00:00:39]: Validating portal[10] <-> 1[10] (active)	
+[00:00:39]: Validating portal[2] <-> 1[2] (active)	
+[00:00:39]: Validating portal[4] <-> 1[4] (active)	
+[00:00:40]: Collecting garbage...
+[00:00:40]: lua_gc took 0.14 seconds
+[00:00:40]: ~ShardLuaProxy()
+[00:00:40]: ~ItemServerLuaProxy()
+[00:00:40]: ~InventoryLuaProxy()
+[00:00:40]: ~NetworkLuaProxy()
+[00:00:40]: ~SimLuaProxy()
+[00:00:40]: lua_close took 0.46 seconds
+[00:00:40]: ReleaseAll
+[00:00:40]: ReleaseAll Finished
+[00:00:40]: cGame::StartPlaying
+[00:00:40]: LOADING LUA
+[00:00:40]: DoLuaFile scripts/main.lua
+[00:00:40]: DoLuaFile loading buffer scripts/main.lua
+[00:00:41]: running main.lua
+	
+[00:00:41]: loaded modindex	
+[00:00:41]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:41]: modoverrides.lua enabling workshop-758532836	
+[00:00:41]: modoverrides.lua enabling workshop-375859599	
+[00:00:41]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:41]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:00:41]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:41]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:41]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:41]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:41]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:41]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:41]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:41]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:41]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:41]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:41]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:41]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:41]: Loading mod: workshop-375859599 (Health Info) Version:2.1.5	
+[00:00:41]: Could not load mod_config_data/modconfiguration_workshop-758532836	
+[00:00:41]: applying configuration_options from modoverrides.lua to mod workshop-758532836	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSECONSOLE with value true	
+[00:00:41]: Overriding mod workshop-758532836's option ENABLECLIENTPAUSE with value true	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSEMAP with value true	
+[00:00:41]: Overriding mod workshop-758532836's option KEYBOARDTOGGLEKEY with value P	
+[00:00:41]: Overriding mod workshop-758532836's option ENABLEHOTKEY with value true	
+[00:00:41]: Overriding mod workshop-758532836's option AUTOPAUSESINGLEPLAYERONLY with value true	
+[00:00:41]: applying configuration_options from modoverrides.lua to mod workshop-375859599	
+[00:00:41]: Overriding mod workshop-375859599's option random_range with value 0	
+[00:00:41]: Overriding mod workshop-375859599's option divider with value 5	
+[00:00:41]: Overriding mod workshop-375859599's option use_blacklist with value true	
+[00:00:41]: Overriding mod workshop-375859599's option show_type with value 0	
+[00:00:41]: Overriding mod workshop-375859599's option unknwon_prefabs with value 1	
+[00:00:41]: Overriding mod workshop-375859599's option random_health_value with value 0	
+[00:00:41]: Loading mod: workshop-758532836 (Global Pause) Version:1.3.2	
+[00:00:41]: Mod: workshop-758532836 (Global Pause)	Loading modworldgenmain.lua	
+[00:00:41]: Mod: workshop-758532836 (Global Pause)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:41]: Mod: workshop-758532836 (Global Pause)	Loading modmain.lua	
+[00:00:41]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:41]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:41]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:41]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:41]: LOADING LUA SUCCESS
+[00:00:41]: Registering mod namespace "globalpause"
+[00:00:41]: PlayerDeaths could not load morgue	
+[00:00:41]: PlayerHistory could not load player_history	
+[00:00:41]: bloom_enabled	false	
+[00:00:41]: loaded saveindex	
+[00:00:41]: OnFilesLoaded()	
+[00:00:41]: OnUpdatePurchaseStateComplete	
+[00:00:41]: 	BE assets already loaded	
+[00:00:42]: Mod: workshop-758532836 (Global Pause)	Registering prefabs	
+[00:00:42]: Mod: workshop-758532836 (Global Pause)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:42]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:42]: Loading world: session/6FA87BF991FAC6A9/0000000240	
+[00:00:43]: Save file is at version 4.77	
+[00:00:43]: Begin Session: 6FA87BF991FAC6A9
+[00:00:43]: Stomping previously assigned session identifier, two loads issued.
+[00:00:43]: saving to server_temp/server_save	
+[00:00:43]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:44]: Loading Nav Grid	
+[00:00:44]: setting 	summerlength	15	
+[00:00:44]: setting 	isnightmaredawn	false	
+[00:00:44]: setting 	elapseddaysinseason	0	
+[00:00:44]: setting 	isfullmoon	false	
+[00:00:44]: setting 	moisture	7244.9169921875	
+[00:00:44]: setting 	springlength	20	
+[00:00:44]: setting 	isnightmarewild	true	
+[00:00:44]: setting 	moonphase	new	
+[00:00:44]: setting 	precipitationrate	0	
+[00:00:44]: setting 	iswet	false	
+[00:00:44]: setting 	isnewmoon	false	
+[00:00:44]: setting 	iswinter	true	
+[00:00:44]: setting 	israining	false	
+[00:00:44]: setting 	isnightmarewarn	false	
+[00:00:44]: setting 	precipitation	none	
+[00:00:44]: setting 	cavephase	day	
+[00:00:44]: setting 	moistureceil	11654.475585938	
+[00:00:44]: setting 	isday	false	
+[00:00:44]: setting 	iscaveday	true	
+[00:00:44]: setting 	season	winter	
+[00:00:44]: setting 	timeinphase	0.0048063732328869	
+[00:00:44]: setting 	temperature	3.6904966231704	
+[00:00:44]: setting 	isnightmarecalm	false	
+[00:00:44]: setting 	isnight	true	
+[00:00:44]: setting 	isdusk	false	
+[00:00:44]: setting 	iscavedusk	false	
+[00:00:44]: setting 	isautumn	false	
+[00:00:44]: setting 	issnowing	false	
+[00:00:44]: setting 	iswaxingmoon	true	
+[00:00:44]: setting 	pop	0.60796334068948	
+[00:00:44]: setting 	snowlevel	0	
+[00:00:44]: setting 	issnowcovered	false	
+[00:00:44]: setting 	autumnlength	20	
+[00:00:44]: setting 	phase	night	
+[00:00:44]: setting 	nightmaretime	580.09230785153	
+[00:00:44]: setting 	winterlength	15	
+[00:00:44]: setting 	isspring	false	
+[00:00:44]: setting 	nightmarephase	wild	
+[00:00:44]: setting 	remainingdaysinseason	15	
+[00:00:44]: setting 	cycles	230	
+[00:00:44]: setting 	iscavenight	false	
+[00:00:44]: setting 	nightmaretimeinphase	0.86728205234357	
+[00:00:44]: setting 	wetness	0	
+[00:00:44]: setting 	time	0.002102788289388	
+[00:00:44]: setting 	issummer	false	
+[00:00:49]: Reconstructing topology	
+[00:00:49]: 	...Sorting points	
+[00:00:49]: 	...Sorting edges	
+[00:00:49]: 	...Connecting nodes	
+[00:00:49]: 	...Validating connections	
+[00:00:50]: 	...Housekeeping	
+[00:00:50]: 	...Done!	
+[00:00:50]: 1 uploads added to server. From server_temp
+[00:00:50]: World 1 is now connected	
+[00:00:50]: Telling Client our new session identifier: 6FA87BF991FAC6A9
+[00:00:50]: ModIndex: Load sequence finished successfully.	
+[00:00:50]: Reset() returning
+[00:00:50]: Validating portal[2] <-> 1[2] (active)	
+[00:00:50]: Validating portal[4] <-> 1[4] (active)	
+[00:00:50]: Validating portal[6] <-> 1[6] (active)	
+[00:00:50]: Validating portal[7] <-> 1[7] (active)	
+[00:00:50]: Validating portal[9] <-> 1[9] (active)	
+[00:00:50]: Validating portal[5] <-> 1[5] (active)	
+[00:00:50]: Validating portal[3] <-> 1[3] (active)	
+[00:00:50]: Validating portal[8] <-> 1[8] (active)	
+[00:00:50]: Validating portal[10] <-> 1[10] (active)	
+[00:00:50]: Validating portal[1] <-> 1[1] (active)	
+[00:00:51]: [Shard] Slave LUA is now ready!
+[00:00:51]: [IPC] Signal created '/DST_Slave_Ready'  #0xcc
+[00:00:51]: [IPC] Sending signal.... #0xcc
+[00:00:51]: Sim paused
+[00:01:09]: Sim unpaused
+[00:09:32]: Serializing world: session/6FA87BF991FAC6A9/0000000241
+[00:17:34]: Serializing world: session/6FA87BF991FAC6A9/0000000242
+[00:17:34]: Truncating to snapshot #242...
+[00:17:34]:  - session/6FA87BF991FAC6A9/0000000236
+[00:17:34]:    1 file(s) removed
+[00:26:00]: Serializing world: session/6FA87BF991FAC6A9/0000000243
+[00:26:00]: Truncating to snapshot #243...
+[00:26:00]:  - session/6FA87BF991FAC6A9/0000000237
+[00:26:00]:    1 file(s) removed
+[00:30:03]: [200] Account Communication Success (6)
+[00:30:03]: Received (KU_3JaAnfyk) from TokenPurpose
+[00:34:19]: Serializing world: session/6FA87BF991FAC6A9/0000000244
+[00:34:19]: Truncating to snapshot #244...
+[00:34:19]:  - session/6FA87BF991FAC6A9/0000000238
+[00:34:19]:    1 file(s) removed
+[00:42:32]: Serializing world: session/6FA87BF991FAC6A9/0000000245
+[00:42:32]: Truncating to snapshot #245...
+[00:42:32]:  - session/6FA87BF991FAC6A9/0000000239
+[00:42:32]:    1 file(s) removed
+[00:50:34]: Serializing world: session/6FA87BF991FAC6A9/0000000246
+[00:50:34]: Truncating to snapshot #246...
+[00:50:34]:  - session/6FA87BF991FAC6A9/0000000240
+[00:50:34]:    1 file(s) removed
+[00:58:49]: Serializing world: session/6FA87BF991FAC6A9/0000000247
+[00:58:49]: Truncating to snapshot #247...
+[00:58:49]:  - session/6FA87BF991FAC6A9/0000000241
+[00:58:49]:    1 file(s) removed
+[01:00:03]: [200] Account Communication Success (6)
+[01:00:03]: Received (KU_3JaAnfyk) from TokenPurpose
+[01:07:07]: Serializing world: session/6FA87BF991FAC6A9/0000000248
+[01:07:07]: Truncating to snapshot #248...
+[01:07:07]:  - session/6FA87BF991FAC6A9/0000000242
+[01:07:07]:    1 file(s) removed
+[01:15:13]: Serializing world: session/6FA87BF991FAC6A9/0000000249
+[01:15:13]: Truncating to snapshot #249...
+[01:15:13]:  - session/6FA87BF991FAC6A9/0000000243
+[01:15:13]:    1 file(s) removed
+[01:23:14]: Serializing world: session/6FA87BF991FAC6A9/0000000250
+[01:23:14]: Truncating to snapshot #250...
+[01:23:14]:  - session/6FA87BF991FAC6A9/0000000244
+[01:23:14]:    1 file(s) removed
+[01:30:03]: [200] Account Communication Success (6)
+[01:30:03]: Received (KU_3JaAnfyk) from TokenPurpose
+[01:31:15]: Serializing world: session/6FA87BF991FAC6A9/0000000251
+[01:31:15]: Truncating to snapshot #251...
+[01:31:15]:  - session/6FA87BF991FAC6A9/0000000245
+[01:31:15]:    1 file(s) removed
+[01:39:36]: Serializing world: session/6FA87BF991FAC6A9/0000000252
+[01:39:36]: Truncating to snapshot #252...
+[01:39:36]:  - session/6FA87BF991FAC6A9/0000000246
+[01:39:36]:    1 file(s) removed
+[01:47:37]: Serializing world: session/6FA87BF991FAC6A9/0000000253
+[01:47:37]: Truncating to snapshot #253...
+[01:47:37]:  - session/6FA87BF991FAC6A9/0000000247
+[01:47:37]:    1 file(s) removed
+[01:52:32]: [Shard] We have been disconnected from the master. Waiting to reconnect...
+[01:52:32]: Sim paused
+[01:52:33]: [IPC] Received shutdown signal.
+[01:52:34]: Serializing world: session/6FA87BF991FAC6A9/0000000254
+[01:52:34]: Truncating to snapshot #254...
+[01:52:34]:  - session/6FA87BF991FAC6A9/0000000248
+[01:52:34]:    1 file(s) removed
+[01:52:34]: unloading prefabs for mod MOD_workshop-758532836	
+[01:52:34]: unloading prefabs for mod MOD_workshop-375859599	
+[01:52:34]: [Shard] Stopping shard mode
+[01:52:34]: Collecting garbage...
+[01:52:35]: lua_gc took 0.18 seconds
+[01:52:35]: ~ShardLuaProxy()
+[01:52:35]: ~ItemServerLuaProxy()
+[01:52:35]: ~InventoryLuaProxy()
+[01:52:35]: ~NetworkLuaProxy()
+[01:52:35]: ~SimLuaProxy()
+[01:52:35]: lua_close took 0.33 seconds
+[01:52:35]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:52:35]: shaders/ui_yuv.ksh - 1
+[01:52:35]: CurlRequestManager::ClientThread::Main() complete
+[01:52:35]: HttpClient2 discarded 0 callbacks.
+[01:52:35]: Shutting down
