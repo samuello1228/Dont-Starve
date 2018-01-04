@@ -1,0 +1,8 @@
+[00:03:56]: [Join Announcement] Lily
+[00:12:22]: [Leave Announcement] Lily
+[00:14:28]: [Join Announcement] Lily
+[00:51:05]: [Death Announcement] Lily was killed by Darkness. She became a spooky ghost!
+[00:52:53]: [Resurrect Announcement] Lily was resurrected by Samuel Lo.
+[01:31:12]: [Death Announcement] Lily was killed by Beefalo. She became a spooky ghost!
+[01:33:33]: [Resurrect Announcement] Lily was resurrected by Florid Postern.
+[01:34:27]: [Leave Announcement] Lily
